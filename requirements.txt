@@ -1,0 +1,8 @@
+Flask
+torch
+torchvision
+nltk
+python-dotenv
+openai==0.28.1
+azure-search-documents
+neo4j

@@ -1,0 +1,229 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello there",
+        "Good morning",
+        "Good afternoon",
+        "Good day",
+        "Is anyone there?",
+        "How's it going?"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Catch you later",
+        "Talk to you soon",
+        "Have a great day"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "I appreciate it",
+        "Much obliged"
+      ],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "product",
+      "patterns": [
+        "Show me a product page",
+        "Tell me about this item",
+        "What chocolate bars do you sell?",
+        "Product details for KitKat",
+        "I want nutrition facts of Boost Kids",
+        "How many calories are in a kitkat bar",
+        "Where can I buy it?",
+        "What flavors are available?",
+        "Do you have gluten-free snacks?",
+        "List your latest products",
+        "Do you sell pet food?",
+        "What cat litter do you sell?"
+      ],
+      "responses": ["[internal] product"]
+    },
+    {
+      "tag": "recipe",
+      "patterns": [
+        "I need a recipe",
+        "How do I cook this?",
+        "Show me a healthy cake recipe",
+        "What's a good dinner idea?",
+        "Recipe for banana bread",
+        "What's a healthy cake recipe?",
+        "Any dessert recipes?",
+        "Can you give me a salad recipe?",
+        "How to make homemade pizza dough?",
+        "Do you have vegan recipes?"
+      ],
+      "responses": ["[internal] recipe"]
+    },
+    {
+      "tag": "promo",
+      "patterns": [
+        "Current promotions",
+        "Any coupons available?",
+        "Show me the latest deals",
+        "Promo code",
+        "Discount on coffee",
+        "What are some good gift ideas for Christmas?",
+        "Are there any offers?",
+        "Do you have seasonal discounts?",
+        "Is there a Black Friday sale?"
+      ],
+      "responses": ["[internal] promo"]
+    },
+    {
+      "tag": "blog",
+      "patterns": [
+        "Blog post about sustainability",
+        "Read Nestlé blog",
+        "Latest blog article",
+        "Show me a blog entry",
+        "Nutrition tips blog",
+        "Corporate blog post",
+        "Any new blog updates?",
+        "Where are your blog posts?",
+        "Link me to a wellness blog"
+      ],
+      "responses": ["[internal] blog"]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "Customer support",
+        "I need help",
+        "Contact Nestlé",
+        "How do I complain?",
+        "Can I talk to support?",
+        "Warranty questions",
+        "How to track my order?",
+        "Where is my shipment?",
+        "I have an issue with my product"
+      ],
+      "responses": ["[internal] support"]
+    },
+    {
+      "tag": "article",
+      "patterns": [
+        "Corporate article",
+        "Read the news release",
+        "Where is that article?",
+        "Scientific article",
+        "CSR article",
+        "Press statement",
+        "Link to the latest report",
+        "Show me a research article",
+        "Company announcement"
+      ],
+      "responses": ["[internal] article"]
+    },
+    {
+      "tag": "sustainability",
+      "patterns": [
+        "Sustainability policy",
+        "Environmental goals",
+        "Recycling commitment",
+        "Net-zero roadmap",
+        "Water stewardship",
+        "Is Nestlé using sustainable practices?",
+        "Climate change plan",
+        "Tell me about your eco initiatives",
+        "What are your carbon targets?"
+      ],
+      "responses": ["[internal] sustainability"]
+    },
+    {
+      "tag": "video",
+      "patterns": [
+        "Show me a video tutorial",
+        "Play the recipe video",
+        "Brand commercial video",
+        "Watch product video",
+        "Instructional video",
+        "Can I see the advert?",
+        "Do you have a how-to video?",
+        "Link to the promotional video"
+      ],
+      "responses": ["[internal] video"]
+    },
+    {
+      "tag": "search",
+      "patterns": [
+        "Search the website",
+        "Find information on coffee",
+        "Look up nutrition facts",
+        "Search Nestlé site",
+        "Site search for recipe",
+        "Find blog about kids",
+        "Can you search for cereal?",
+        "Find product reviews"
+      ],
+      "responses": ["[internal] search"]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "About Nestlé",
+        "Company history",
+        "Mission statement",
+        "Who founded Nestlé?",
+        "About section",
+        "Corporate profile",
+        "Tell me about the company",
+        "What is Nestlé's mission?"
+      ],
+      "responses": ["[internal] about"]
+    },
+    {
+      "tag": "document",
+      "patterns": [
+        "PDF brochure",
+        "Download document",
+        "Whitepaper",
+        "Annual report",
+        "Show me the document",
+        "Policy document",
+        "Where can I download the guide?",
+        "Get me the CSR report"
+      ],
+      "responses": ["[internal] document"]
+    },
+    {
+      "tag": "feedback",
+      "patterns": [
+        "Let me suggest an update",
+        "This info is outdated",
+        "I want to provide some feedback",
+        "Please update this info",
+        "That information is not right",
+        "That link is not right",
+        "That's insane"
+      ],
+      "responses": ["[internal] feedback"]
+    }
+  ]
+}
