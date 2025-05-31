@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/meal-prep",
+    "category": "Recipe",
+    "title": "Batch Cooking and Meal Prep",
+    "n_tokens": 256,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/333ad62df5940dab69296477ba4ec6fa_coconut_meatball_curry-025-960x640.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/9cc6ae1fc742c57c18f868309b15069e_one_pot_hidden_veggie_bolognese-024-960x640.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/7c33a07e676c6e6658f15b0dfe0d5518_lemon_vanilla_custard-014-960x640.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/511e0ec8450cfb99a1bdf69c0fb56e34_tacos-al-pastor.png",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/e05cbc05093f453c2cf6abd4f28dd51f_mozzarella_strawberry_salad_w_chocolate_vinaigrette-023-960x640.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "meal prep",
+    "Packed with hidden veggies, this curry-inspired one-pot dish is perfect for big-batch cooking to keep you fuelled for the week! Coconut milk powder provides creaminess that perfectly balances the warm spice of curry paste and the hot and sweet chili sauce.",
+    "A veggie-packed variation on the traditional Italian ragù, this Bolognese is a one-pot dish that’s great for making ahead and preparing in batches for busy weeknight dinners. Originally from the Emilia-Romagna region, “Bolognese” refers to a slow-cooked meat sauce that was first developed in Bologna, Italy. This recipe includes loads of hidden vegetables so you can enjoy comfort-food classics while still getting important nutrients!",
+    "Stacked with vibrant, colourful layers, this mason-jar salad is sure to keep you satisfied. Loaded with nourishing ingredients, this recipe makes for a perfect balanced lunch or a portable summery side dish for dining al fresco.",
+    "Tacos al pastor is a Mexican street-food staple that was created by Lebanese immigrants in the 1930s. Cooked on a Middle Eastern shawarma–style spit called a trompo, this recipe — spiked with chiles, adobo sauce and orange juice, and topped with pineapple and cilantro — has been adapted to be easily created in your own kitchen – no trompo required.",
+    "140",
+    "Perfect for picnics or lunch on the go, these stacked mason-jar salads are easy to make yet impressive to serve. Play around with your favourite salad toppings for added texture and flavour, or omit prosciutto for a vegetarian alternative. This recipe is super versatile and is sure to be a crowd favourite."
+  ]
+}

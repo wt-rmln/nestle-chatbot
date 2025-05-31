@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/fall",
+    "category": "Recipe",
+    "title": "Cozy Up with These Fall Recipes",
+    "n_tokens": 61,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/maple-pecan-latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-11/Nescaf%C3%A9-Pumpkin-Spice-Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Fall",
+    "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice."
+  ]
+}

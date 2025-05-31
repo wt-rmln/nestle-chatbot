@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/coffee/tasters-choice",
+    "category": "Product",
+    "title": "Nescafe - Collection - Tasters Choice",
+    "n_tokens": 62,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/tasters_choice_decaf.png?itok=2Ad3u1-h",
+        "role": "secondary",
+        "alt": "NESCAFÉ Taster's Choice Decaf Coffee, 100 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-03/NBEV_21000996_Taster%27s_Choice_100g_3D_square.png?itok=YiRLKfoF",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-02/collection-rich-bg.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-02/collection-gold-bg.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-02/collection-sweet-creamy-bg.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Taster’s Choice",
+    "Crafted with beans from around the world to create a well-rounded and smooth coffee for everyone to enjoy.",
+    "Explore by brand",
+    "Explore by format",
+    "Sweet &Creamy",
+    "Taster’sChoice",
+    "Stay connected",
+    "Follow us on our social media accounts to get even more tasty content."
+  ]
+}

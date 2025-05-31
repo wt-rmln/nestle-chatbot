@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipe/caramel-apple-ice-cream-muffins",
+    "category": "Recipe",
+    "title": "Caramel Apple Ice Cream Muffins",
+    "n_tokens": 113,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/share.png",
+        "role": "secondary",
+        "alt": "share icon"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/search.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/9d0f1419f53cfbc7d4a4fbe905e57c04_tfg_haagendazs_dulce_muffins_066_copy.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Caramel Apple Ice Cream Muffins",
+    "Total time:",
+    "40\n\t\t\t\t\t\t\t\t\t\tmins.",
+    "Servings:",
+    "6\n\t\t\t\t\t\t\t\t\t\tMuffins",
+    "Share",
+    "Print",
+    "ShareTweetEmailPinYumPrint",
+    "Ingredients",
+    "1 tbs oil, for greasing",
+    "¾ pint Häagen-Dazs Dulce de Leche ice cream, softened",
+    "1 cup self raising flour",
+    "1 medium apple, peeled and diced",
+    "2 tbs Turbinado sugar, for sprinkling",
+    "Directions",
+    "INSTRUCTIONS",
+    "Preheat the oven to 350°F and grease a 6-cup muffin tin.",
+    "Combine softened Häagen-Dazs Dulce de Leche ice-cream with the flour, and then fold gently the apples in.",
+    "Using a ice-cream scoop, divide the batter into the muffin cups, sprinkle with Turbinado sugar and bake for 35 minutes.",
+    "Cool for five minutes in the muffin tin before transferring to wire racks to cool completely."
+  ]
+}

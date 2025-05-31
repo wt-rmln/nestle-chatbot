@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/drumstick/tubs",
+    "category": "Product",
+    "title": "Drumstick - Collection - Tubs",
+    "n_tokens": 22,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-tubs-en/Spoons_Blue_BG_EN_2.gif",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-tubs-en/tubs-vanilla.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-tubs-en/tubs-chocolate.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-tubs-en/tubs-strawberry.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-01/drumstick_chock_fudge_browny_tub_new.png?itok=AfokLaXK",
+        "role": "secondary",
+        "alt": "Drumstick Chocolate Fudge Brownie Tub"
+      }
+    ]
+  },
+  "text": [
+    "DRUMSTICK® TUBS",
+    "The iconic Sundae cone experience, now loaded in a tub!",
+    "Drumstick Chocolate Fudge Brownie",
+    "Drumstick Strawberry Cheesecake",
+    "Drumstick Vanilla Caramel"
+  ]
+}

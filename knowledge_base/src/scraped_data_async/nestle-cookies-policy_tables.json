@@ -1,0 +1,31 @@
+[
+  {
+    "headers": [],
+    "rows": [
+      [
+        "Cookie categories",
+        "Lifespan"
+      ],
+      [
+        "Site functionality cookiesThese cookies allow you to navigate the site and use our features, such as registration, logging in and product favourites. If you disable these cookies certain parts of the website will not function for you, for example, adding items to your basket, proceeding to checkout.",
+        "As long as necessary"
+      ],
+      [
+        "Site analytics cookiesThese cookies allow us to measure and analyse how you use our websites, apps and mobile platforms, to improve both its functionality and your experience.",
+        "90 days"
+      ],
+      [
+        "Customer preference cookiesWhen you are browsing on our sites, these cookies will remember your preferences (like your language or location), and other information you choose to provide to us, so we can help tailor your experience and make it more relevant and personal to you.",
+        "90 days"
+      ],
+      [
+        "Advertising or targeting cookiesThese cookies are used to deliver ads relevant to you. They also limit the number of times that you see an ad and help us measure the effectiveness of our marketing campaigns. We may also use the information obtained via these cookies to serve you with advertising that may be of interest to you based on your past online behaviour. We may share this information with other parties, including our partners.",
+        "90 days"
+      ],
+      [
+        "Social media cookiesThese cookies are used when you share information using a social media sharing button on a Nestle Site. The social network will record that you have done this. This information may be linked to targeting/advertising activities.",
+        "90 days"
+      ]
+    ]
+  }
+]

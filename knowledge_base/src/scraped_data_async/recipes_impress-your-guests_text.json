@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/impress-your-guests",
+    "category": "Recipe",
+    "title": "Impress your guests",
+    "n_tokens": 50,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-05/nescafe-martini-espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Impress your guestsRaspberry Brown Butter Crêpes à la ModeSnickerdoodle Cups with Vanilla Ice CreamSea Salt Chocolate Brownie Ice Cream SandwichesCardamom Donuts With Vanilla Bean Ice Cream",
+    "All recipes",
+    "This deliciously creamy espresso martini is the perfect mocktail to bond over.",
+    "An impressive cookie, a spin on the classic tiramisu dessert."
+  ]
+}

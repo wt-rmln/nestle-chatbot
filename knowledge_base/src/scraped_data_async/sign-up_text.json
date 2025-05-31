@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/sign-up",
+    "category": "Promo",
+    "title": "Keep up with the brands you love",
+    "n_tokens": 31,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/all/themes/custom/nestle_stylus/images/sign-up/products/after-eight.png",
+        "role": "package",
+        "alt": "After Eight"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/all/themes/custom/nestle_stylus/images/sign-up/products/aero.png",
+        "role": "package",
+        "alt": "Aero milk chocolate"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/all/themes/custom/nestle_stylus/images/sign-up/products/drumstick.png",
+        "role": "package",
+        "alt": "DRUMSTICK cone"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/all/themes/custom/nestle_stylus/images/sign-up/products/kit-kat.png",
+        "role": "package",
+        "alt": "Kit Kat"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/all/themes/custom/nestle_stylus/images/sign-up/products/butterfinger.png",
+        "role": "package",
+        "alt": "Butterfinger"
+      }
+    ]
+  },
+  "text": [
+    "Keep up with the brands you love",
+    "Be the first to know about exclusive contests, surprise and delight giveaways, special events, coupons and more!",
+    "Exclusive Contests",
+    "Surprise Giveaways",
+    "Special Events",
+    "Coupons"
+  ]
+}

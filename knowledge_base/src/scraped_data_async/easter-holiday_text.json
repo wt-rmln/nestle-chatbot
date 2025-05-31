@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/easter-holiday",
+    "category": "Product",
+    "title": "Easter chocolates and treats",
+    "n_tokens": 289,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-03/hero-easter-banner.jpg",
+        "role": "package",
+        "alt": "The Kit Kat eggs wrapped with folio material"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-hide-me-eggs.png?itok=n3ljP5PH",
+        "role": "secondary",
+        "alt": "kit kat hide me eggs 153 g package"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aero-hide-me-eggs.png?itok=RBQS--jJ",
+        "role": "secondary",
+        "alt": "AERO Hide Me Eggs 100 g pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-hide-me-eggs.png?itok=ZDR2kbci",
+        "role": "secondary",
+        "alt": "coffee crisp hide me eggs 150 pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/aero-easter-chocolate-lamb-5-pack.jpg?itok=9CJtpBzL",
+        "role": "secondary",
+        "alt": "AERO Easter Chocolate Lamb 5-pack"
+      }
+    ]
+  },
+  "text": [
+    "Recipes",
+    "Fun recipes for home",
+    "Nothing satisfies hardworking egg-hunters more than homemade treats. That’s why we’ve included recipes and activities that are quick, easy, and will have you hopping with happiness!",
+    "Get Easter Ready!",
+    "KIT KAT Easter Hide Me Chocolate Eggs",
+    "AERO Hide Me Eggs 100g",
+    "COFFEE CRISP Easter Hide Me Chocolate Eggs",
+    "AERO Easter Chocolate Lamb 5-pack",
+    "SMARTIES Hide Me Eggs",
+    "NESTLÉ AERO Novelty Bunny 94g",
+    "NESTLÉ KITKAT Chocolate Easter Bunny Gift Pack",
+    "SMARTIES Chocolate Easter Bunny Gift Pack",
+    "More",
+    "Join us at the Toronto Beach Easter Egg Scavenger Hunt on April 18, 2025, or the Easter Parade on April 20, 2025. Our team will be giving away samples again at this event. Hope to see you there!",
+    "LEARN MORE",
+    "Keep Exploring",
+    "Double Chocolate Easter Muffins",
+    "Hop into the Easter fun with KitKat! Enjoy a delicious KitKat bunny with a Smarties infused chocolate muffin. You won't…need an excuse to have more than one break!",
+    "15 mins.",
+    "25 mins.",
+    "KITKAT BUNNY EASTER EGG",
+    "Stop the hunt! We have found the perfect Easter egg recipe for everyone in the family to enjoy! Hop on board with KitKat…bunnies and Smarties eggs for a delicious treat you won't want to miss!",
+    "20 mins.",
+    "KITKAT BUNNY CARROT CAKE",
+    "Take a big break this Easter while enjoying a slice of KitKat bunny Carrot Cake!",
+    "50 mins.",
+    "KITKAT BUNNY & COCONUT MOUSSE",
+    "Smooth, creamy, and decadent... these are just SOME of the amazing descriptors for out KitKat Coconut mousse. If you're…looking for something new to try this Easter, you've found it.",
+    "Easter Scavenger Hunt",
+    "Step up your Easter game with this fun and challenging quest for the children.",
+    "60 mins.",
+    "SMARTIES Fruit n' Nut Bars",
+    "SMARTIES Fruit n' Nut Bars are perfect egg hunt fuel"
+  ]
+}

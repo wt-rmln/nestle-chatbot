@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/kit-kat-1.5-l",
+    "category": "Product",
+    "title": "KIT KAT",
+    "n_tokens": 115,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/kitkat-ice-cream_0.png",
+        "role": "secondary",
+        "alt": "kitkat ice cream"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/kitkat%20gold.jpg?itok=89Th56Ek",
+        "role": "secondary",
+        "alt": "KITKAT Gold Single Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-02/00055000212328_A1N1_44387900_23.10.2024_0.png?itok=cZUp0Lnm",
+        "role": "secondary",
+        "alt": "KITKAT Gold Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/Coffee-crisp-double-crunch-ice-bars_0.png?itok=ie0iOwq6",
+        "role": "secondary",
+        "alt": "Coffee crisp double crunch ice bars pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rolo-cones-frozen-dessert.png?itok=UriRpv9N",
+        "role": "secondary",
+        "alt": " Rolo Cones, Frozen Dessert"
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "KIT KAT",
+    "Take a brrreak with a delicious KIT KAT frozentreat!",
+    "Where to Buy",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "KIT KATFeatures and Benefits",
+    "The KIT KAT taste you know and love, in a frozen treat",
+    "Great for sharing",
+    "KIT KATNutrition Information",
+    "Per 1/2 cup (125 ml)Amount% DVCalories1500%Carbohydrate22g7%Fibre1g4%Sugars18g0%Fat6g9%Cholesterol10mg0%Saturated Fat4.5g24%Trans Fat0.2g0%Protein2g0%Sodium70mg3%Amount% DVCalcium6%Iron4%Vitamin A0%Vitamin C0%",
+    "KIT KATIngredients",
+    "Modified milk ingredients, sugar, milk ingredients, glucose, coconut oil, cocoa, water, wheat flour, hydrogenated vegetable oils (coconut and soybean), palm oil, mono-and diglycerides, propylene glycol monostearate, soy lecithin, cellulose gum, carob bean gum, carrageenan, corn starch, sodium bicarbonate, malted barley flour, salt, artificial flavour, potassium sorbate, citric acid, colour.May contain peanuts and tree nuts.",
+    "You might be interested in"
+  ]
+}

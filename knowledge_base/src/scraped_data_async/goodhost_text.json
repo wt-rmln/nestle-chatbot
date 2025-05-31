@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/goodhost",
+    "category": "Product",
+    "title": "GOOD HOST Iced Tea & Lemonade",
+    "n_tokens": 54,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/goodhost-ice-tea.jpg?itok=mZqkPavQ",
+        "role": "package",
+        "alt": "GOODHOST Liq Water Enhancer 12x52m"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3148576_gh_orig_2kg_e_3d.png?itok=PdtTP7JQ",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-07-heart-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-22-world-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-58-hands-food-01.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "Refreshingly good.",
+    "Mix up a delicious sip of summer with GOOD HOST.",
+    "THE RECIPE\n\nYOU KNOW\n\n& LOVE IS BACK!",
+    "The official sip of summer.",
+    "GOOD HOST Original",
+    "GOODHOST Liq Water Enhancer 12x52m",
+    "Facts",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

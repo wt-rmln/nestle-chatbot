@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "Häagen-Dazs - Collections - Layers",
+    "n_tokens": 61,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/layers-collection-hero-en/layers-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/layers-collection-hero-en/layers-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/layers-collection-hero-en/layers-mobile-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/layers-collection-hero-en/layers-mobile-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-bottom-tiles-may-2023/hdz-explore-plant-based-bg.png",
+        "role": "package",
+        "alt": ""
+      }
+    ],
+    "url": "https://www.haagen-dazs.ca/en/hd-en/layers",
+    "category": "Product"
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "Exträaz LAYERS",
+    "Feel the love in every layer. Iconic ice cream, smooth sauce and crispy layers. There's decadence in every bite.",
+    "Discover your Indulgence",
+    "exträaz layers Mint Chocolate Chip Ice Cream",
+    "EXTRÄAZ Layers Salted Caramel Chocolate Ice Cream",
+    "EXTRÄAZ Layers Berry Explosion Ice Cream",
+    "EXTRÄAZ Layers Triple Chocolate Ice Cream",
+    "View All Products",
+    "Explore",
+    "Exträaz Layers"
+  ]
+}

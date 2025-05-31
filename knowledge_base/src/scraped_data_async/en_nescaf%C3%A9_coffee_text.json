@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/coffee",
+    "category": "Product",
+    "title": "Nescafe - Our Coffees",
+    "n_tokens": 49,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/iced.png?itok=qa2ZkjFR",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/caramel.png?itok=tVU4OOjs",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/intense_0.png?itok=6VDg7zo-",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-05/rich-instant-tin.png?itok=HF7erAjD",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-colombia-colombie-header.png?itok=8T-ZgNSs",
+        "role": "secondary",
+        "alt": "nescafe-gold-colombia-colombie-header"
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "For all tastes and occasions",
+    "Explore by brand",
+    "Explore by format",
+    "View more",
+    "Sweet &Creamy",
+    "Taster’sChoice",
+    "Stay connected",
+    "Follow us on our social media accounts to get even more tasty content."
+  ]
+}

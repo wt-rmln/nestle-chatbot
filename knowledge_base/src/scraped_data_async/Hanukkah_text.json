@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/Hanukkah",
+    "category": "Product",
+    "title": "Happy Hannukah!",
+    "n_tokens": 422,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-11/02_candle.png",
+        "role": "secondary",
+        "alt": "Menorah"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-11/05_dreidel.png?itok=u30EUX50",
+        "role": "secondary",
+        "alt": "star of david"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-11/01_candle.png?itok=yQMmFQkN",
+        "role": "secondary",
+        "alt": "menorah"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-11/02_oil.png?itok=Qf74g3CL",
+        "role": "secondary",
+        "alt": "oil"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-11/03_gelt.png?itok=RPgzSM05",
+        "role": "secondary",
+        "alt": "gelt"
+      }
+    ]
+  },
+  "text": [
+    "Fun Facts",
+    "Traditions",
+    "Recipes",
+    "Nestle Holidays",
+    "HAPPY HANUKKAH!",
+    "Ah Hannukah, a celebration of the miracle of light with your nearest and dearest, and of course with FOOD. Let’s dig in!",
+    "We'd love to hear from you, what's your favourite Hannukah food?  Send us a message on social media!",
+    "Hanukkah is the festival of lights, as one night’s supply of oil lasted eight nights - a true miracle!",
+    "Enjoying traditional Hannukah foods made with oil is a big part of the holiday. And with eight full days to celebrate, there’s plenty of opportunity to get creative in the kitchen. Whether you’re hosting or joining family and friends, Hannukah season is the time for delicious, mouth-watering and indulgent Jewish foods.  From latkes (potato pancakes) challa (braided bread) and sufganiyot (jelly filled donuts) to brisket and rugelach (mini croissant look-alike pastries), the menu ideas are endless.",
+    "Hanukkah Recipes",
+    "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM",
+    "Did anyone say ice cream?! These…cardamon donuts are taken to the next level with Haagen Dazs flavoured vanilla bean ice cream. Once the donuts are done they are drizzled with honey for an epic bite sure to knock your socks off. For extra flavour, sprinkle cinnamon and cardamon on the ice cream, yum!",
+    "8 mins.",
+    "9 mins.",
+    "Dulce de Leche-Filled Muffin Tin Donuts",
+    "Just say dulce de leche and you think of oooey gooey…deliciousness! With cinnamon and nutmeg rounding out the flavours these show stopping donuts are sure to get anyone running to the kitchen asking for a taste. This slightly lighter version bakes the donuts instead of frying them, but don’t worry the taste is great and are sure to be a crowd pleaser .",
+    "6 mins.",
+    "0 mins.",
+    "Loukoumades (Greek Donuts)",
+    "These little bites of heaven, enjoyed by Greek Jews…during celebrations such as Hanukkah are also a very popular dessert in Middle Eastern countries such as Iraq, Cyprus and Turkey and perfect for any occasion. Save time spent in long line ups and try this quick and easy recipe! Made with simple ingredients, these fluffy honey balls have a long history. These delicious sweets were reportedly known as “honey tokens” and given as small gifts to winners of Olympic games.",
+    "5 mins.",
+    "35 mins.",
+    "AERO and TURTLES Bite Size Chocolate Pecan Rugelach",
+    "Deriving from the Yiddish word meaning “little…twists,” these delicious bite-size cookies are traditionally served during Hanukkah, and can be made with dried fruit, nuts, jams or, as in this recipe, chocolate! Aero and chocolate add decadence and delight to this holiday favourite",
+    "25 mins.",
+    "20 mins."
+  ]
+}

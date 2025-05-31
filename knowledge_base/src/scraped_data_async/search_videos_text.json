@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/search/videos",
+    "category": "Search",
+    "title": "Videos",
+    "n_tokens": 45,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/2023-10/QS%20final%20MWN.jpg?itok=oCIZxjWK",
+        "role": "secondary",
+        "alt": "QUALITY STREET Nankhatai"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/2023-10/Mango%20Lassi%201-%20BOOST.jpg?itok=hmWPoXXD",
+        "role": "secondary",
+        "alt": "BOOST Mango Lassi "
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/2023-10/Chatpati%20Shikanji_Oct%2026_Nestle%20Canada%20Inc_03281661_1000X1500_04_Rev1helvfont.jpg?itok=N0fQnb11",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/yt_thumbnail_e_860x480.jpg?itok=L5eevBKv",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Categories",
+    "(106)",
+    "(1780)",
+    "(998)",
+    "(58)",
+    "(296)",
+    "(322)",
+    "Promotions",
+    "QUALITY STREET Nankhatai",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "SPELLEGRINO Limonta Chatpati Shikanji",
+    "QUALITY STREET Nankhatai Cookie Recipe{\"preview_thumbnail\":\"/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/AUqtpkjgFD8.jpg?itok=JZ02qB3H\",\"video_url\":\"https://youtu.be/AUqtpkjgFD8\",\"settings\":{\"responsive\":1,\"width\":\"854\",\"height\":\"480\",\"autoplay\":1},\"settings_summary\":[\"Embedded Video (Responsive, autoplaying).\"]}",
+    "Keep the Halloween Spirit Alive",
+    "Current page1",
+    "Page2",
+    "Page3",
+    "Page4",
+    "Page5",
+    "Next pageNext ›",
+    "Last pageLast »"
+  ]
+}

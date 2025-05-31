@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/boost",
+    "category": "Product",
+    "title": "BOOST Nutritional Drinks",
+    "n_tokens": 219,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca//sites/default/files/nestle_packages/boost-home-assets/Product-Pillar-Everyday-Nutrition.png",
+        "role": "package",
+        "alt": "Everyday Nutrition"
+      },
+      {
+        "url": "https://www.madewithnestle.ca//sites/default/files/nestle_packages/boost-home-assets/Product-Pillar-Enhanced-Nutrition.png",
+        "role": "package",
+        "alt": "Enhanced Nutrition"
+      },
+      {
+        "url": "https://www.madewithnestle.ca//sites/default/files/nestle_packages/boost-home-assets/Product-Pillar-Specialized-Nutrition.png",
+        "role": "package",
+        "alt": "Specialized Nutrition"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-home-assets/great-taste-guarantee-2.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-home-assets/Protein-Calculator-Banner-fitness-watch.png",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "BOOST® Nutritional Drinks have the nutrients your body needs, and a taste you’ll love.",
+    "BOOST®Protein Calculator",
+    "Learn how much protein you need with a our quick, 2-minute quiz",
+    "The amount of protein you need depends on a number of factors including:",
+    "Age",
+    "Weight",
+    "Activity Level",
+    "A BOOST®for Better",
+    "For over 20 years, BOOST® has been committed to delivering balanced nutrition to Canadians. In line with this commitment, BOOST® is also dedicated to making strides towards a better tomorrow.",
+    "Blog",
+    "BOOST - Ski",
+    "BOOST - Bike",
+    "Team Homan does AMA",
+    "Testimonials",
+    "Bluefolder",
+    "Tara Low",
+    "Kerri1990",
+    "Chevette420",
+    "Denikea",
+    "@BoostNutritionCanada",
+    "Be part of the BOOST community",
+    "Join the BOOST® community to stay up-to-date with new products, discounts and more!",
+    "By checking this box, you agree to receive emails and other communications from Nestlé Health Science, a division of Nestlé Canada Inc., regardingBOOST®, other products, promotions, coupons and related information that may be of interest to you. You can withdraw your consent at any time.",
+    "All trademarks are owned by Société des Produits Nestlé S.A., Vevey, Switzerland and used under license. ©2018 Nestlé",
+    "You may also like",
+    "BOOST Kids Essentials Vanilla",
+    "BOOST Kids Fruit Essentials",
+    "BOOST Kids Essentials Chocolate",
+    "BOOST Kids Fruit Essentials Tropical",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

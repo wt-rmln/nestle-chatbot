@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/hd-en/recipes",
+    "category": "Recipe",
+    "title": "Häagen-Dazs - Recipes",
+    "n_tokens": 24,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-recipes-hero-title.svg",
+        "role": "package",
+        "alt": "Recipes"
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/df439cec4b358fc90b6a8449cbc2e60b_hdz-cardamom-vanilla-donuts.png",
+        "role": "recipe",
+        "alt": "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM"
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/ff1ba80ec8bf015ec162cbe336210021_hdz-pineapple-coconut-meringue.jpg",
+        "role": "recipe",
+        "alt": "Meringue Sandwiches With Pineapple Coconut Ice Cream"
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "hero default",
+    "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM",
+    "mins.",
+    "Meringue Sandwiches With Pineapple Coconut Ice Cream",
+    "120",
+    "More"
+  ]
+}

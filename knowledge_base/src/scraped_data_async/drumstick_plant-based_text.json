@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/drumstick/plant-based",
+    "category": "Product",
+    "title": "Drumstick - Collection - Plant Based",
+    "n_tokens": 22,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-plantbased-pkg-en/plantbased-hero-cone.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-plantbased-pkg-en/plantbased-hero-pack.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-plantbased-pkg-en/plantbased-extra-cone.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-plantbased-pkg-en/plantbased-extra-chocolate.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/Plant-Based-Caramel-En-new-header.png?itok=IGRUHS3M",
+        "role": "secondary",
+        "alt": "Plant Based Caramel En new"
+      }
+    ]
+  },
+  "text": [
+    "Oh yes, we did! Certified vegan, plant-based DRUMSTICK cones is the ultimate game changer.",
+    "DRUMSTICK Plant-Based, Caramel Carton 4 x 120 ml"
+  ]
+}

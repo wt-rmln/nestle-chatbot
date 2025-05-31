@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/kit-kat",
+    "category": "Product",
+    "title": "KITKAT",
+    "n_tokens": 95,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-05/MWN_19x9_Banner_KitKat_EN.png",
+        "role": "secondary",
+        "alt": "Discover New Way to Break with Kit Kat Tablet"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-salt-caramel-tablet.png?itok=mjEYloEp",
+        "role": "secondary",
+        "alt": "KITKAT Salt caramel Tablet"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-hazelnut-tablet.png?itok=rVS5En_B",
+        "role": "secondary",
+        "alt": "KITKAT Hazelnut Tablet"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-classic-tablet.png?itok=-jHX3jno",
+        "role": "secondary",
+        "alt": "KITKAT Classic Tablet"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/KITKAT-CHUNKY-King-header.png?itok=h_CV9Uv9",
+        "role": "secondary",
+        "alt": "KITKAT CHUNKY King bar"
+      }
+    ]
+  },
+  "text": [
+    "Ice Cream & Frozen TreatsConfectionery Frozen DessertsHäagen-DazsDrumstickIÖGODel MonteParlourReal Dairy",
+    "Spring & Sparkling WaterMaison PerrierPerrierSan Pellegrino",
+    "Facts",
+    "Videos",
+    "Have a break,have a KitKat",
+    "Follow us on social",
+    "Kit Kat Classic 45 g Proudly Prepared in Canada",
+    "KITKAT Tablet Salted Caramel",
+    "KITKAT Tablet Hazelnut",
+    "KITKAT Classic Tablet",
+    "KITKAT CHUNKY Peanut Butter, Mega Size",
+    "KITKAT NHL Chocolate Hockey Stick",
+    "KitKat MEGA",
+    "KITKAT Chunky Extreme Choc, Wafer Bar",
+    "KITKAT Chunky Rolo, Wafer Bar",
+    "More",
+    "Keep Exploring",
+    "You may also like",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

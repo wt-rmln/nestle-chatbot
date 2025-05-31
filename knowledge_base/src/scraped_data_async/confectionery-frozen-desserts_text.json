@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+    "category": "Product",
+    "title": "Ice Cream and Frozen Desserts",
+    "n_tokens": 61,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/ice_cream_snowflake_white-01_1.png",
+        "role": "secondary",
+        "alt": "Ice Cream logo"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kitkat%20gold.jpg?itok=NDZrX1EI",
+        "role": "secondary",
+        "alt": "KITKAT Gold Single Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/00055000212328_A1N1_44387900_23.10.2024_0.png?itok=RQLows2G",
+        "role": "secondary",
+        "alt": "KITKAT Gold Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/Coffee-crisp-double-crunch-ice-bars_0.png?itok=OriVDFpw",
+        "role": "secondary",
+        "alt": "Coffee crisp double crunch ice bars pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/rolo-cones-frozen-dessert.png?itok=liSzOv0N",
+        "role": "secondary",
+        "alt": " Rolo Cones, Frozen Dessert"
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "Frozen treats, delightful sweets",
+    "Our frozen treats are made with good ingredients, and delightful sweets.",
+    "Cool down with a favourite",
+    "KIT KAT Gold Frozen Dessert Bar",
+    "KIT KAT Gold Wafer Flavoured Frozen Dessert Bars",
+    "Coffee Crisp Bars, Frozen Dessert",
+    "Rolo Cone Frozen Dessert",
+    "KitKat Mini Bars Frozen Dessert",
+    "COFFEE CRISP Frozen Cone",
+    "KitKat Cones",
+    "DRUMSTICK ROLO Cones",
+    "More",
+    "Keep Exploring"
+  ]
+}

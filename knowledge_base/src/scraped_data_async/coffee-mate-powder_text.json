@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/coffee-mate-powder",
+    "category": "Product",
+    "title": "Coffee Mate Powder",
+    "n_tokens": 22,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-11/grocery-hub-banner_cm-v2-french-vanilla_b3_en.jpg",
+        "role": "secondary",
+        "alt": "Love at first sip"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-11/grocery-hub-banner_cm-v3-group_b3_en.jpg",
+        "role": "secondary",
+        "alt": "Love can come in any flavour"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/cm_light_en.png?itok=FuwoAfcs",
+        "role": "secondary",
+        "alt": "COFFEE-MATE Light, 50% Less Fat, 450 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/cm_hazel_en.png?itok=mVMfcvtw",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/cm_fv_en.png?itok=FzYEDxjV",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Facts",
+    "COFFEE MATE Original Light Powder",
+    "COFFEE MATE Hazelnut Powder",
+    "COFFEE MATE French Vanilla Powder",
+    "COFFEE-MATE Original Powder",
+    "COFFEE MATE Original Powder"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/hd-en/plant-based",
+    "category": "Product",
+    "title": "Häagen-Dazs - Collections - Plant-Based",
+    "n_tokens": 57,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/plantbased-collection-hero-en/plant-based-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/plantbased-collection-hero-en/plant-based-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/plantbased-collection-hero-en/plant-based-mobile-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/plantbased-collection-hero-en/oat-badge.png",
+        "role": "package",
+        "alt": "made with oats"
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/plantbased-collection-hero-en/vegan-badge.png",
+        "role": "package",
+        "alt": "certified vegan, vegan.org"
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "It's Dazs like never before. A new plant-based, vegan treat made with oats that takes creaminess to the next level.",
+    "Discover your Indulgence",
+    "Plant-based Chocolate Fudge Brownies",
+    "PLANT-BASED",
+    "Plant-based Chocolate Peanut Butter Frozen Dessert",
+    "Plant-based Caramel Fudge Chip Frozen Dessert",
+    "Plant-based Vanilla Raspberry Truffle Frozen Dessert",
+    "View All Products",
+    "Explore",
+    "Exträaz Layers"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/packaged-respectfully",
+    "category": "Sustainability",
+    "title": "Nescafe - COR - Packaged Respectfully",
+    "n_tokens": 115,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-packaged-pkg/respect-packaged.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-touts-pkg/cor-touts-bg.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-touts-pkg/standard-btn-arrow.svg",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Packaged Respectfully",
+    "Easier to recycle",
+    "We’re proud to sell our coffee in glass because it can be recycled endlessly. There are many benefits to using recycled glass. It saves energy, reduces the amount of raw materials needed, and it even extends the life of glass-making furnaces.",
+    "When it comes to making our jars,670 kg of CO2is saved for every tonne of recycled glass used.",
+    "Canadian targets and ambitions",
+    "DESIGN RESPECTFULLY– We are developing 100% recyclable/reusable packaging by 2025 across all our products, with a focus on reducing our use of new plastic by using more recycled materials."
+  ]
+}

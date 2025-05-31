@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nestea",
+    "category": "Product",
+    "title": "NESTEA",
+    "n_tokens": 78,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/NESTEA-Lemon_0.jpg?itok=kBkJ6_XG",
+        "role": "package",
+        "alt": "NESTEA Lemon Iced Tea Powder Mix, less sugar 715 grams"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/NESTEA-2024.png?itok=VdP0VleR",
+        "role": "package",
+        "alt": "NESTEA Original Lemon Iced Tea, 2.2 kg."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/lemon-liquid.jpg?itok=8jbnppal",
+        "role": "secondary",
+        "alt": " NESTEA Lemon Iced Tea Liquid Water Enhancer"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-xx-lemontea-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-58-hands-food-01.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "NESTEA",
+    "Nesfruta",
+    "Carnation Hot Chocolate",
+    "Nesquik",
+    "Facts",
+    "The official drink of summer",
+    "Refuelling with water has never tasted better.Refresh with delicious NESTEA.",
+    "Choose your favourite and hit refresh.",
+    "NESTEA Lemon Iced Tea Less Sugar",
+    "NESTEA Lemon Iced Tea Liquid Water Enhancer",
+    "NESTEA Original Lemon Iced Tea",
+    "THE RECIPE\nYOU KNOW\n& LOVE IS BACK!",
+    "Keep Exploring",
+    "Simply made with 5 ingredients!",
+    "Nestlé is a proud partner of Food Banks Canada.",
+    "We measure our environmental impact.See how we're doing"
+  ]
+}

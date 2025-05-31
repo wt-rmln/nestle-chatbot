@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nesquik",
+    "category": "Product",
+    "title": "Nesquik Syrups and Powders: Wake up your Milk!",
+    "n_tokens": 68,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_700ml_1.png?itok=Lx9ifJc0",
+        "role": "package",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_less_sugar_0.png?itok=J9jFFH5H",
+        "role": "package",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_1.4l_1.png?itok=0KhUNhMi",
+        "role": "package",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/Nesquik-Strawberry-Syrop.png?itok=OCSgirMu",
+        "role": "package",
+        "alt": "Nesquik Strawberry Syrop"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_powder_540g.png?itok=BdPuzvf5",
+        "role": "package",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "Wake up your Milk!",
+    "NESQUIK® is a fun, easy and delicious way to enjoy all the nutritious benefits of milk. Simply squeeze it or scoop it and stir up a little fun!",
+    "So many fun ways to drink more milk every day!",
+    "NESQUIK Chocolate Syrup (700 ml)",
+    "NESQUIK Less Sugar Chocolate Syrup",
+    "NESQUIK Chocolate Syrup (1.4 L)",
+    "NESQUIK Strawberry Syrup",
+    "NESQUIK Chocolate Powder (540 g)",
+    "Keep Exploring"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/new",
+    "category": "Recipe",
+    "title": "Try These New Fresh Recipes",
+    "n_tokens": 134,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/caramel_latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Iced-Shaken-Espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/French-Vanilla-Cappuccino.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Iced-Caramel-Latte-Macchiato.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Shaken-Brown-Sugar-Iced-Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "A rich, velvety caramel latte, with smooth, frothy milk and a hint of indulgent sweetness.",
+    "This smooth iced classic sweetened with vanilla extract is the ultimate pick-me-up.",
+    "The classic cappuccino, infused with the delicate, slightly sweet flavour of vanilla. Enjoy every sip with flair.",
+    "A chilled favourite of rich coffee sweetened with caramel. Oh so refreshing!",
+    "Elevate your iced coffee with toasty notes of brown sugar and cinnamon.",
+    "A robust Vietnamese style iced coffee with the bold taste you love, stirred with condensed milk and served with ice.",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "Open up the possibilities of your day with this cozy recipe."
+  ]
+}

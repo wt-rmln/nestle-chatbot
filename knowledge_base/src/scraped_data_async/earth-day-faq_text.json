@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/earth-day-faq",
+    "category": "Sustainability",
+    "title": "Earth Day FAQ",
+    "n_tokens": 50,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2022-04/01_header_1.jpg",
+        "role": "secondary",
+        "alt": "plants and globe"
+      }
+    ]
+  },
+  "text": [
+    "Sustainability FAQs",
+    "Nestlé Canada Efforts to Help Reduce Plastic Use",
+    "Nestlé’s Environmental Sustainability Goals",
+    "Learn About the Nestlé Cocoa Plan",
+    "Nestlé Brands that use 100% Sustainable Cocoa",
+    "Determining Packaging Recyclability",
+    "How Nestlé Tackles Plastic Waste",
+    "Concerns with the Plastic Used in Nestlé Packaging",
+    "https://www.madewithnestle.ca/help/article/nestle-canada-help-reduce-plastic-use",
+    "https://www.madewithnestle.ca/help/article/environmental-sustainability-goals",
+    "https://www.madewithnestle.ca/help/article/nestle-cocoa-plan",
+    "https://www.madewithnestle.ca/help/article/brands-use-100-sustainable-cocoa",
+    "https://www.madewithnestle.ca/help/article/product-packaging-recyclability",
+    "https://www.madewithnestle.ca/help/article/how-nestle-tackles-plastic-waste",
+    "https://www.madewithnestle.ca/help/article/concerns-plastic-used-packaging"
+  ]
+}

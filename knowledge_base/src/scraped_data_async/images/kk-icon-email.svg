@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="80px" viewBox="0 0 120 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-email</title>
+    <g id="icon-email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M92,16 L92,64 L28,64 L28,16 L92,16 Z M51.7906054,43.326 L35.115,60 L84.884,60 L68.2286054,43.345 L67.7979443,43.7764168 C63.5703638,48.0039972 56.757795,48.0711017 52.4481515,43.9777301 L52.2415951,43.7764168 L51.7906054,43.326 Z M88,23.573 L71.0576054,40.516 L88,57.459 L88,23.573 Z M32,23.535 L32,57.458 L48.9616054,40.497 L32,23.535 Z M85.916,20 L34.122,20 L55.0700222,40.9479897 C57.7467408,43.6247082 62.0519112,43.6804732 64.7964819,41.1152846 L64.9695171,40.9479897 L85.916,20 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

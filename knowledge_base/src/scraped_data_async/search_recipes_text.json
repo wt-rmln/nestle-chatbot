@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/search/recipes",
+    "category": "Search",
+    "title": "Recipes",
+    "n_tokens": 125,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/6ccd89039a959b6ba8eec93fae2f6660_whole_grain_pasta_with_strawberry_tomato_sauce.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/6538f2ebc8b8a88a240cf1c9759695f3_strawberry_panna_cotta.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/78176b7493ffb8155aeeb21223924777_coffeematepancakes_2.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://www.youtube.com/embed/6gkkkOdWMO0",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/a4dfd3d53f5f85010407250811ff5c08_yule-log-cake-(960x640).jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Categories",
+    "(296)",
+    "(1780)",
+    "(998)",
+    "(58)",
+    "(106)",
+    "(322)",
+    "Promotions",
+    "BOOST Whole Grain Pasta with Strawberry Tomato SauceThe flavour of this tomato sauce gets brought to life with the sweetness of BOOST Strawberry. Toss with whole wheat pasta and fresh parmesan—it's pasta night!",
+    "Strawberry Panna CottaThis strawberry panna cotta is a sweet and refreshing finish to any meal. Infused with lemon peel, vanilla and the strawberry flavour of BOOST.",
+    "COFFEEMATE Camping PancakesTurn your camping trip to glamping with this easy-to-use COFFEE-MATE hack.",
+    "Mango Peach Iced Tea PopsChunks of mango and peach slices add fresh flavour and bright colour to these refreshing summery tea pops",
+    "AERO Caramel Truffles Yule Log CakeAERO Caramel Truffles Yule Log Cake",
+    "Current page1",
+    "Page2",
+    "Page3",
+    "Page4",
+    "Page5",
+    "Next pageNext ›",
+    "Last pageLast »"
+  ]
+}

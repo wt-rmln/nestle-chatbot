@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/holiday",
+    "category": "Recipe",
+    "title": "Explore Nestlé Holiday Recipes",
+    "n_tokens": 223,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-05/nescafe-martini-espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/maple-pecan-latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Nescafe%20Iced%20Pumpkin%20Spiced%20Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/860048f4da6d5eeadd38492c750051eb_chocolate_coconut_kulfi-027-960x640-_high_res.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/be5225ccac29717236f19f2c2bbe55d9_chocolate_hazelnut_pistachio_burfi-029-960x6400-_low_res.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Holiday",
+    "This deliciously creamy espresso martini is the perfect mocktail to bond over.",
+    "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "These milky, sweet, and delicious frozen treats are sure please everybody’s taste buds! Add cardamom, chocolate, coconut or coffee for a little extra flavour.",
+    "Burfi (also known as barfi) is a popular dessert that is commonly served to celebrate a special occasion, such as a wedding or gathering, and throughout the Diwali festival! This delicious, fudge-like dessert can be made with a variety of toppings and flavourings (such as nuts, spices and floral essences like rose water or saffron). This rendition is made with creamy coconut milk and studded with decadent chocolate for the ultimate holiday indulgence",
+    "Looking for a delicious dessert that will impress your guests? This incredible dessert is exactly what you are craving. A crispy and soft meringue topped with chocolate, berries and Häagen-Dazs ice cream, a Pavlova is perfect for that sunny day or festive occasion.",
+    "An impressive cookie, a spin on the classic tiramisu dessert."
+  ]
+}

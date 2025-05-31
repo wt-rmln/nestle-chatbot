@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/farmers",
+    "category": "Sustainability",
+    "title": "Nescafé Make your world - Supporting farmers",
+    "n_tokens": 236,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-01/farmers-nescafe-1_0.jpg",
+        "role": "secondary",
+        "alt": "Sustainable from coffee farm to coffee table."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-01/farmers-nescafe-2.jpg",
+        "role": "secondary",
+        "alt": "Lending a helping hand."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-01/farmers-nescafe-3.jpg",
+        "role": "secondary",
+        "alt": "Enabling farmers to work better"
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Make Your World",
+    "Brewing a better future for our coffee communities.",
+    "Your beloved morning beverage would not be possible without our partner communities, which is why we work closely with more than 100,000 coffee farmers worldwide. We’re dedicated to supporting them by piloting new coffee farming approaches to help improve livelihoods.",
+    "Make Your World from bean to cup",
+    "It all starts where we grow our beans. That’s why we work closely with coffee farmers to help them attain more sustainable farming practices. Some of the ways we do this are by introducing improved coffee plants, optimizing fertilization, and reinforcing agroforestry systems.",
+    "Helping farmers make a change",
+    "From providing cash incentives for farms that adopt regenerative farming practices to creating weather insurance plans, we’re giving our farmers the support they need to be more sustainable, efficient, prosperous, and resilient.",
+    "Empowering farmers",
+    "Through various processes and tactics such as compost fertiliers and rejuvenating tree stock, we can help our farmers increase their coffee yields. We’re also helping more and more young people get ready for a career in coffee with our Youth Initiative programs.",
+    "Our progress so far",
+    "We’re committed to Nescafé Plan 2030 and are cultivating a difference with every cup. Read about our progress so far and our goals for the future.",
+    "See 2022 Progress ReportNescafé Plan 2030"
+  ]
+}

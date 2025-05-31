@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/hot-chocolate",
+    "category": "Recipe",
+    "title": "Hot Chocolate",
+    "n_tokens": 31,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-05/nescafe-martini-espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/108bd0b85806acfaa65b569444087fd3_frozen-hot-chocolate.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Hot Chocolate",
+    "This deliciously creamy espresso martini is the perfect mocktail to bond over.",
+    "Create the perfect summer indulgent treat, frozen hot chocolate. Simply blend with ice and milk, then enjoy!"
+  ]
+}

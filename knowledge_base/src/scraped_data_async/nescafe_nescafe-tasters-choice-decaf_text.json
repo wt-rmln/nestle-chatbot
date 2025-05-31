@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "NESCAFÉ Taster's Choice Decaf Instant Coffee",
+    "n_tokens": 165,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/tasters_choice_decaf.png",
+        "role": "secondary",
+        "alt": "NESCAFÉ Taster's Choice Decaf Coffee, 100 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/iced.png?itok=fx8kDpaO",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/caramel.png?itok=K93J-MgV",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/intense_0.png?itok=VK1blAbc",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rich-instant-tin.png?itok=VKsiZHcV",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      }
+    ],
+    "url": "https://www.madewithnestle.ca/nescafe/nescafe-tasters-choice-decaf",
+    "category": "Product"
+  },
+  "text": [
+    "NESCAFÉ Taster's Choice Decaf Instant Coffee",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Get a perfectly rich, robust coffee in mere moments with NESCAFÉ TASTER’S CHOICE Decaffeinated Instant Coffee. We use the same carefully selected beans from around the world as our regular TASTER’S CHOICE, just decaffeinated. It’s our passion to ensure a quality, well-rounded, and oh-so-satisfying smooth cup of coffee, every time.",
+    "Instant coffee made from 100% pure, specially-selected coffee beans.",
+    "We use the same, carefully-selected beans from around the world as our regular TASTER’S CHOICE, just decaffeinated.",
+    "We take the upmost care to ensure a deliciously well-rounded and oh-so-satisfying smooth coffee, every time.",
+    "NESCAFÉ TASTER’S CHOICE has 0 calories. It’s what you add that counts!",
+    "We're investing in our factories to reduce energy use and waste as part of the NESCAFÉ Plan.",
+    "In 2013 we distributed over 21.4 million coffee plantlets through the NESCAFÉ Plan.",
+    "Per 1 tsp (5 ml)Amount% DVCalories50%Carbohydrate2gFibre1g4%Fat0g0%Protein0.2gAmount% DVPotassium75mg2%",
+    "100% pure coffee.",
+    "Where to Buy",
+    "You might be interested in"
+  ]
+}

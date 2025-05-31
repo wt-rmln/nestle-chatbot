@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/grown-respectfully",
+    "category": "Sustainability",
+    "title": "We’re proud to call who grow our coffee beans our partner farmers.",
+    "n_tokens": 406,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-grown-pkg/respect-grown.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-grown-pkg/cor-grown-generations.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-grown-pkg/cor-grown-solar.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-grown-pkg/cor-grown-female.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-touts-pkg/cor-touts-bg.jpg",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Grown Respectfully",
+    "Better grown beans",
+    "We’re proud to call the men and women who grow our coffee beans our partner farmers. NESCAFÉ experts visit their farms to pass on innovative sustainable agricultural practices that help them earn more, stay healthier and work more in tune with nature.",
+    "Canadian targets and ambitions",
+    "TO SOURCE OUR COFFEE RESONSIBLY– Our coffee is sourced and certified through established and internationally recognised partners: 4C, Rainforest Alliance and UTZ.",
+    "TO RESPECT FARMERS– We deliver over 100,000 trainings per year to upskill farmers’ business knowledge and help them grow higher yielding or more disease resistant plants.",
+    "It takes generations to make coffee taste this good",
+    "Some growers are the children or grandchildren of the first farmers we helped.",
+    "As of December 2020, we distributed more than100 million new disease-resistant coffee plantlets to over 54,000 farmers in Mexico and Colombia. Then we spent the next 2-3 years helping farmers tend their new ‘babies’.",
+    "These great farming partnerships have been formed over decades resulting in a strong bond between coffee growers and NESCAFÉ’s experts.",
+    "Solar powered beans",
+    "Soggy coffee beans are no good to anyone. Dry beans keep for longer, giving farmers more time to negotiate their sale. NESCAFÉ agronomists are encouraging our partner farmers in Honduras to dry their coffee beans on their farms instead of paying someone else to do it. Once solar dryers are installed, it costs virtually nothing to run them. Yet it means our partner farmers can get more cash for their new supercharged, super-dry, better-quality beans.",
+    "Honduran farmers using solar dryers can get an average $160 more per hectare.",
+    "Next gen female farmers",
+    "One of the ways we’re helping to improve lives in coffee-growing communities is to empower women farmers financially. With profit comes socio-economic empowerment and financial freedom.",
+    "So far3,500 Rwandan women have benefitted from a program launched by Nestlé in 2016 in collaboration with the Kahawatu Foundation.",
+    "By teaching them about financial literacy, global coffee prices, pruning, weeding, mulching, and harvesting, we equip them to make their farming efforts more profitable.",
+    "We partner with the Rainforest Alliance to monitor and evaluate the progress of our work in farm economics, as well as social and environmental impact. With this vital data we are able to adapt and improve our work, helping to bring long-term sustainability to thousands of coffee farmers."
+  ]
+}

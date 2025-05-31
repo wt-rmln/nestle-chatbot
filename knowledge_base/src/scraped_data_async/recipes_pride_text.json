@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/pride",
+    "category": "Recipe",
+    "title": "Pride",
+    "n_tokens": 19,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/8d889e658517ed2403a098ba4bd57d48_210429_gg_ukfop_gif_pizza_opbouw_v2014_(1).jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Pride",
+    "Celebrate Pride with this tasty vegan rainbow recipe! A simple, colorful and fun recipe that everyone will love."
+  ]
+}

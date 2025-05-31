@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/easy-0",
+    "category": "Recipe",
+    "title": "Effortless Easy Recipes",
+    "n_tokens": 79,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/caramel_latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/French-Vanilla-Cappuccino.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Shaken-Brown-Sugar-Iced-Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Nescafe%20Iced%20Pumpkin%20Spiced%20Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "A rich, velvety caramel latte, with smooth, frothy milk and a hint of indulgent sweetness.",
+    "The classic cappuccino, infused with the delicate, slightly sweet flavour of vanilla. Enjoy every sip with flair.",
+    "Elevate your iced coffee with toasty notes of brown sugar and cinnamon.",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice."
+  ]
+}

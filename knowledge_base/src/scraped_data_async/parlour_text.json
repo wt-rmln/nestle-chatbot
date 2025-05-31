@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/parlour",
+    "category": "Product",
+    "title": "Nestle parlor ice cream - Frozen Desserts",
+    "n_tokens": 81,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-vanilla-caramel.png?itok=w_ghdvQm",
+        "role": "package",
+        "alt": "parlour vanilla caramel bars pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-juicy-pops-mango-peach-cherry.png?itok=upUXfUWn",
+        "role": "package",
+        "alt": "parlour juicy pops mango peach cherry pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-06.png?itok=F8c2-gWa",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2021-09/00055000893008_CF__PNG_Custom.png?itok=hf4yGYQ7",
+        "role": "secondary",
+        "alt": "PARLOUR French Vanilla"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4065424_prlr_chcbna_1_5l_3d_eng.png?itok=2Pw34LoF",
+        "role": "secondary",
+        "alt": "Parlour-Chocolate-Banana Thumbnail image"
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "Frozen treats, classic flavours!",
+    "With frozen desserts, bars, sandwiches, minis, and single serve treats, PARLOUR has a favourite for everyone!",
+    "What’s your favourite scoop?",
+    "Vanilla Caramel Half Dipped Frozen Dessert Bars",
+    "Juicy Pops, Mango Peach & Cherry Flavoured Ice Pops",
+    "PARLOUR Vanilla",
+    "French Vanilla Frozen Dessert",
+    "PARLOUR Chocolate & Banana",
+    "PARLOUR Butterscotch Sundae",
+    "PARLOUR Cookies & Cream",
+    "More",
+    "Did You Know...",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

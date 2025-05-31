@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "NESCAFÉ Taster's Choice Classic Instant Coffee",
+    "n_tokens": 163,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/NBEV_21000996_Taster%27s_Choice_100g_3D.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/iced.png?itok=fx8kDpaO",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/caramel.png?itok=K93J-MgV",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/intense_0.png?itok=VK1blAbc",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rich-instant-tin.png?itok=VKsiZHcV",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      }
+    ],
+    "url": "https://www.madewithnestle.ca/nescafe/nescaf%C3%A9-tasters-choice-classic",
+    "category": "Product"
+  },
+  "text": [
+    "NESCAFÉ Taster's Choice Classic Instant Coffee (100 g)",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Get a perfectly rich, robust coffee in mere moments with NESCAFÉ TASTER’S CHOICE Classic Instant Coffee. We carefully select beans from around the world to ensure a quality, well-rounded, and oh-so-satisfying smooth coffee. Every morning, you can rely on TASTER’S CHOICE to provide a delicious cup, every time.",
+    "Instant coffee made from 100% pure, specially-selected coffee beans.",
+    "We carefully select beans from around the world to ensure a deliciously well-rounded and oh-so-satisfying smooth coffee, every time.",
+    "NESCAFÉ TASTER’S CHOICE has 0 calories. It’s what you add that counts!",
+    "We're investing in our factories to reduce energy use and waste as part of the NESCAFÉ Plan.",
+    "In 2013 we distributed over 21.4 million coffee plantlets through the NESCAFÉ Plan.",
+    "Per 1 tsp (5 ml)Amount% DVCalories5Carbohydrate2gFibre1g4%Fat0g0%Protein0.2gAmount% DVPotassium75mg2%",
+    "Instant coffee.",
+    "NESCAFÉ Taster's Choice Classic Instant Coffee (100 g)NESCAFE TASTER'S CHOICE CLASSIC 250 g",
+    "Where to Buy",
+    "You might be interested in"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipe/tabbouleh-salad-middle-east",
+    "category": "Recipe",
+    "title": "Tabbouleh salad",
+    "n_tokens": 185,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/d7274026cf2a3d4edcf1bd74f043e3c7_6.02_MEZEAST_Recipe_TABBOULEH_SRH.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/d79fa1e0a6eb78afa3a6934d8d2c9173_6.02.2_Tabbouhleh_step_2_SRH.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/886447380cd7d882fab27a9e0e16e266_6.02.3_Tabbouhleh_step_3_SRH.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/f7fa3a2241c44622c3af5c17757b4d54_6.02.4_Tabbouhleh_step_4_SRH.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Tabbouleh Salad from the Middle East",
+    "Tabbouleh is a classic Middle Eastern salad, punchy with parsley and mint; and in this case, finished with sweet and sour MEZEAST pomegranate sauce.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "Prep time:",
+    "5\n\t\t\t\t\t\t\t\t\t\t\tmins.",
+    "Cook time:",
+    "15\n\t\t\t\t\t\t\t\t\t\t\tmins.",
+    "Total time:",
+    "20\n\t\t\t\t\t\t\t\t\t\t\tmins.",
+    "Servings:",
+    "4\n\t\t\t\t\t\t\t\t\t\t\tPortions",
+    "ShareTweetEmailPinYumPrint",
+    "Ingredients",
+    "Preparation",
+    "120g Bulgur Wheat",
+    "20g finely chopped Mint",
+    "40g finely chopped Parsley",
+    "2  Tomatoes (cut into small cubes)",
+    "Juice of 2 Lemons",
+    "1 tbsp Olive Oil",
+    "2 tbsp Mezeast Pomegranate Sauce (from Israel/Middle East)",
+    "Instructions",
+    "Cook the bulgur wheat",
+    "Cook the bulgur wheat according to the packaging instructions. Drain and set aside to cool slightly.",
+    "Mix the ingredients",
+    "Mix the bulgur wheat with the other ingredients.",
+    "Garnish and serve",
+    "Drizzle the salad with Mezeast pomegranate sauce and enjoy!",
+    "What you need",
+    "How to prepare"
+  ]
+}

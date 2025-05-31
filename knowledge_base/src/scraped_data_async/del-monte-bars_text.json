@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/del-monte-bars",
+    "category": "Product",
+    "title": "Del-Monte-Bars",
+    "n_tokens": 46,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/delmonte_mango.png?itok=QSS0-pv6",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/delmonte_berry_peach.png?itok=1R9fUzw9",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/delmonte_strawberry.png?itok=ZoDaAPWp",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2023-04/DEL%20MONTE%20Coconut%20Pineapple%20Frozen%20Dairy%20Dessert%20Bars.jpg?itok=F3uskDNm",
+        "role": "secondary",
+        "alt": "DEL MONTE Coconut Pineapple Frozen Dairy Dessert Bars"
+      }
+    ]
+  },
+  "text": [
+    "Bars",
+    "Facts",
+    "The taste of real fruit!",
+    "Cool down with the refreshing taste of your favourite fruits.",
+    "DEL MONTE Mango Frozen Fruit Bars",
+    "DEL MONTE Mixed Berry & Peach Frozen Dessert Bars",
+    "DEL MONTE Strawberry Frozen Fruit Bars",
+    "DEL MONTE Coconut Pineapple Frozen Dairy Dessert Bars"
+  ]
+}

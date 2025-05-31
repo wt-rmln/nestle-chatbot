@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/instant-coffee",
+    "category": "Recipe",
+    "title": "Instant Coffee",
+    "n_tokens": 161,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/caramel_latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Iced-Shaken-Espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/French-Vanilla-Cappuccino.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/maple-pecan-latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Iced-Caramel-Latte-Macchiato.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Instant Coffee",
+    "A rich, velvety caramel latte, with smooth, frothy milk and a hint of indulgent sweetness.",
+    "This smooth iced classic sweetened with vanilla extract is the ultimate pick-me-up.",
+    "The classic cappuccino, infused with the delicate, slightly sweet flavour of vanilla. Enjoy every sip with flair.",
+    "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "A chilled favourite of rich coffee sweetened with caramel. Oh so refreshing!",
+    "Elevate your iced coffee with toasty notes of brown sugar and cinnamon.",
+    "A robust Vietnamese style iced coffee with the bold taste you love, stirred with condensed milk and served with ice.",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "Open up the possibilities of your day with this cozy recipe."
+  ]
+}

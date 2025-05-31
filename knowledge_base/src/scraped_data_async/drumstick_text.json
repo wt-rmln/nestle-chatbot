@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/drumstick",
+    "category": "Product",
+    "title": "DRUMSTICK Sundae Cones",
+    "n_tokens": 73,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/MWN_Drumstick_Cones_EN.gif",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/MWN_Drumstick_Splash.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-home-banners-en-v2/Spoons_Blue_BG_EN_2.gif",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-home-banners-en-v2/tubs-vanilla.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-home-banners-en-v2/tubs-chocolate.png",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "FeaturedCones",
+    "Experience your favourite DRUMSTICK reimagined with exciting new coatings and flavours.",
+    "Exploreindulgences",
+    "DRUMSTICK®TUBS",
+    "The iconic Sundae cone experience, now loaded in a tub!",
+    "ExploreTubs",
+    "ForeverClassics",
+    "Our full-size DRUMSTICK available in a family of flavours.",
+    "ExploreClassics",
+    "Minis:smallisthenewbig",
+    "All the DRUMSTICK indulgence, in a mini size treat.",
+    "ExploreMinis",
+    "Plant-Based:Gamechanged",
+    "Your favourite cone in a delicious plant-based treat.",
+    "ExplorePlant Based",
+    "We’ve been creating joyful memories since 1928. That’s a lot of DRUMSTICK memories.",
+    "DRUMSTICKMemories",
+    "@drumstickca"
+  ]
+}

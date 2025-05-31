@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/treat",
+    "category": "Recipe",
+    "title": "Recipes For Your Next Favourite Treat",
+    "n_tokens": 46,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/c3228db66d502a4ea4f338efce210559_1080x1080.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Almond cookies are acherished part of LunarNew Year as they areconsidered a symbol of goodfortune. We add a chocolateyKitKat crunch to our recipe,ensuring happiness allaround!This easy recipe bakes updelicious almond scentedcookies with a golden cracklyshell and soft, crumblyinterior, topped off with apiece of our irresistible KitKatMinis!"
+  ]
+}

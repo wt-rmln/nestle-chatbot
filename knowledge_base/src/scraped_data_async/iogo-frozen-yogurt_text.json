@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+    "category": "Product",
+    "title": "IÖGO",
+    "n_tokens": 288,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-strawberry-cheesecake-header.png?itok=4mba4GK7",
+        "role": "package",
+        "alt": "IOGO-frozen-yogurt-bars-strawberry-cheesecake-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-raspberry-chocolate-header.png?itok=PQ5vxwfb",
+        "role": "package",
+        "alt": "IOGO-frozen-yogurt-bars-raspberry-chocolate-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-cherry-swirl-header.png?itok=ygxPZ-Eh",
+        "role": "package",
+        "alt": "IOGO-frozen-yogurt-bars-cherry-swirl-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-bluberry-swirl-header.png?itok=DiDlXzH4",
+        "role": "package",
+        "alt": "IOGO-frozen-yogurt-bars-blueberry-swirl-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-strowbarry-header.png?itok=Y2BuxcLq",
+        "role": "package",
+        "alt": "IOGO-frozen-yogurt-strowbarry"
+      }
+    ]
+  },
+  "text": [
+    "iÖGO",
+    "Parlour",
+    "Real Dairy",
+    "FAQS",
+    "iÖGO® Frozen Yogurt Bars Strawberry Cheesecake 4x80ml",
+    "iÖGO® Frozen Yogurt Bars Raspberry Chocolate 4x80ml",
+    "iÖGO® Frozen Yogurt Bars Cherry Swirl 4x80ml",
+    "iÖGO® Frozen Yogurt Bars Blueberry Swirl 4x80ml",
+    "iÖGO® Frozen Yogurt Strawberry Swirl Tub 6x946ml",
+    "iÖGO® Frozen Yogurt Vanilla Tub 6x946ml",
+    "iÖGO® Frozen Yogurt Cherry Swirl 6x946ml",
+    "iÖGO® Frozen Yogurt Blueberry Swirl Tub 6x946ml",
+    "More",
+    "Frequently Asked Questions",
+    "Is IÖGO-Frozen Yogurt Peanut Free?",
+    "Where can I buy iÖGO Frozen Yogurt?",
+    "Where are iÖGO Frozen Yogurt made?",
+    "What is the source of dairy in iÖGO Frozen Yogurt?",
+    "Does iÖGO contain any artificial colours or flavours?",
+    "What is the shelf life of iÖGO Frozen Yogurt",
+    "Is iÖGO Frozen Yogurt Kosher?",
+    "Our IÖGO products do not include peanuts but are manufactured in a facility that processes peanuts and tree nuts. We always recommend checking the product packaging and ingredient list.",
+    "iÖGO Frozen Yogurt is available in all major retail stores across Canada.",
+    "To explore both online and in-store options, select the Products tab in the top banner and click the \"Where to Buy\" button below the flavour of iÖGO Frozen Yogurt you want! A pop-up will provide options for shopping online or locating nearby stores by entering a postal code or city.",
+    "iÖGO Frozen Yogurt is made at the Nestlé Ice Cream factory in London, ON.",
+    "All our dairy ingredients are from Canada.",
+    "All IÖGO Frozen Yogurt products do not contain any artificial colors or flavours.",
+    "The recommended shelf life of IÖGO Frozen Yogurt products are 1 year.",
+    "All iÖGO products are certified Kosher (COR).",
+    "MANUFACTURED AND PACKAGED BY NESTLÉ CANADA INC., USING THE TRADEMARKS IÖGO® AND IÖGO NANÖ® WHICH ARE REGISTERED TRADEMARKS OF LACTALIS CANADA, AND USED UNDER LICENSE BY NESTLÉ. LEARN MORE ABOUTIÖGO YOGURTS."
+  ]
+}

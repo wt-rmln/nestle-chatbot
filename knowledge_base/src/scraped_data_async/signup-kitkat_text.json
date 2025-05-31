@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/signup-kitkat",
+    "category": "Search",
+    "title": "Kitkat signup",
+    "n_tokens": 78,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/kit-kat_animation_frame_1.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/kit-kat_animation_frame_2.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/kit-kat_animation_frame_3.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/kit-kat_animation_frame_4.png",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "You deserve a break.And so much more.",
+    "Become a member today and get",
+    "even closer to brands, you love.",
+    "Discover exclusive coupons, contents,",
+    "giveaways and more!",
+    "By checking this box, you agree to receive emails and other communications from the Nestle Canada Inc. family of brands regarding products, contests, promotions, offers and related information that may be of interest to you. You can withdraw your consent at any time. Please refer to ourPrivacy PolicyorContact Uspages for more information."
+  ]
+}

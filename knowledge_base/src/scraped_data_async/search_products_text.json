@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/search/products",
+    "category": "Search",
+    "title": "Products",
+    "n_tokens": 125,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/truffles_hazelnut.png?itok=kMD1mXn1",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/search_result_image/public/salted_caramel_truffles.png?itok=FzBTQ0ii",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Categories",
+    "(998)",
+    "(1780)",
+    "(58)",
+    "(296)",
+    "(106)",
+    "(322)",
+    "Promotions",
+    "QUALITY STREET Hazelnut Milk Chocolate TrufflesSurprise someone special with the decadent and delicious holiday gift of NESTLÉ QUALITY STREET Hazelnut Milk Chocolate Truffles. Each carton opens up to individually wrapped milk chocolate truffles with a smooth hazelnut flavoured centre and coated in crunchy caramelized hazelnut pieces.",
+    "QUALITY STREET Salted Caramel Milk Chocolate TrufflesSurprise someone special with the decadent and delicious holiday gift of NESTLÉ QUALITY STREET Salted Caramel Milk Chocolate Truffles. Each carton opens up to individually wrapped milk chocolate truffles with a smooth salted caramel flavoured centre and coated in crunchy salted caramel pieces.",
+    "Kit Kat Mini bars",
+    "Kit Kat Santa",
+    "KitKat Mini Santa",
+    "Current page1",
+    "Page2",
+    "Page3",
+    "Page4",
+    "Page5",
+    "Next pageNext ›",
+    "Last pageLast »"
+  ]
+}

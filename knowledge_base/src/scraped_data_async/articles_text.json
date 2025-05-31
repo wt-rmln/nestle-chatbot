@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/articles",
+    "category": "Blog",
+    "title": "News Feed and Latest Articles",
+    "n_tokens": 30,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/article_grid_item/public/2025-03/BOOST%20Article%20Image.png?itok=5pWBLNdo",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/article_grid_item/public/2025-02/Omega3-Feb-Blog-header.jpg?h=18146137&itok=i9FVZmkl",
+        "role": "secondary",
+        "alt": "Omega3-Feb-Blog-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/article_grid_item/public/2025-01/Nestle-Nesquik-Happy-Tummies-banner.jpg?h=aacd421e&itok=q2hGQRC-",
+        "role": "secondary",
+        "alt": "Nestle-Nesquik-Happy-Tummies-banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/article_grid_item/public/2024-11/Pay-Attention-to-Protein-at-Breakfast-header%20%281%29.jpg?h=62077e66&itok=qfD9iwG1",
+        "role": "secondary",
+        "alt": "Pay Attention to Protein at Breakfast"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/article_grid_item/public/2024-11/5%20Elements%20of%20Eating%20for%20Energy.jpeg?h=0d27ee61&itok=lc2X8YAY",
+        "role": "secondary",
+        "alt": "5 Elements of Eating for Energy"
+      }
+    ]
+  },
+  "text": [
+    "News Feed",
+    "10 Foods that Give You Energy",
+    "Exploring Heart Health & Omega-3 Supplements Beyond Fish Oil",
+    "Pay Attention to Protein at Breakfast",
+    "5 Elements of Eating for Energy",
+    "More"
+  ]
+}

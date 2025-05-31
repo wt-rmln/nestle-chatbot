@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Mackintosh Caramel",
+    "n_tokens": 44,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_bites_246g.png?itok=tP_QhV_f",
+        "role": "secondary",
+        "alt": "MACKINTOSH Creamy Toffee Bites, Resealable Bag, 246 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_2019.png?itok=7btqgUdb",
+        "role": "secondary",
+        "alt": "MACKINTOSH Creamy Toffee Tin, 260 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_4bars.png?itok=vr4txxF4",
+        "role": "secondary",
+        "alt": "MACKINTOSH Toffee 4 bar multipack, 4 x 25 grams."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-09-no-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-18-world-arrows-01.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ],
+    "url": "https://www.madewithnestle.ca/mackintosh-toffee",
+    "category": "Product"
+  },
+  "text": [
+    "Recipes",
+    "MACK is back!",
+    "MACKINTOSH toffee is back, and just as delicious as you remember! Our creamy toffee has been enjoyed for over 100 years.",
+    "Simple, quality ingredients make our Toffee simply delicious",
+    "MACKINTOSH Toffee Pieces",
+    "MACKINTOSH Toffee Tin",
+    "MACKINTOSH Toffee Bars",
+    "Keep Exploring"
+  ]
+}

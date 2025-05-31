@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/rolo-1.5-l",
+    "category": "Product",
+    "title": "ROLO Frozen Dessert",
+    "n_tokens": 107,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-05/ROLO-frozen-dessert.png",
+        "role": "secondary",
+        "alt": "ROLO Frozen Dessert"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/kitkat%20gold.jpg?itok=89Th56Ek",
+        "role": "secondary",
+        "alt": "KITKAT Gold Single Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-02/00055000212328_A1N1_44387900_23.10.2024_0.png?itok=cZUp0Lnm",
+        "role": "secondary",
+        "alt": "KITKAT Gold Frozen Dessert Bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/Coffee-crisp-double-crunch-ice-bars_0.png?itok=ie0iOwq6",
+        "role": "secondary",
+        "alt": "Coffee crisp double crunch ice bars pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rolo-cones-frozen-dessert.png?itok=UriRpv9N",
+        "role": "secondary",
+        "alt": " Rolo Cones, Frozen Dessert"
+      }
+    ]
+  },
+  "text": [
+    "ROLO Frozen Dessert",
+    "Where to Buy",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "ROLO Frozen DessertFeatures and Benefits",
+    "The ROLO taste you love in a frozen treat",
+    "Great for sharing",
+    "ROLO Frozen DessertNutrition Information",
+    "Per 1/2 cup (125 ml)Amount% DVCalories1300%Carbohydrate21g7%Fibre0g0%Sugars16g0%Fat5g8%Cholesterol5mg0%Saturated Fat4g21%Trans Fat0.1g0%Protein2g0%Sodium55mg2%Amount% DVCalcium4%Iron2%Vitamin A0%Vitamin C0%",
+    "ROLO Frozen DessertIngredients",
+    "MODIFIED MILK INGREDIENTS, SUGAR, MILK INGREDIENTS, GLUCOSE, COCONUT OIL, SWEETENED CONDENSED MILK, COCOA, CORN SYRUP, WATER, CANOLA OIL, BROWN SUGAR, SALT, PALM KERNEL OIL, MONO- AND DIGLYCERIDES, PROPYLENE GLYCOL MONOSTEARATE, CELLULOSE GUM, SOY LECITHIN, CARRAGEENAN, CAROB BEAN GUM, SODIUM CITRATE, CITRIC ACID, POTASSIUM SORBATE, COLOUR, FLAVOURS AND ARTIFICIAL FLAVOURS. MAY CONTAIN PEANUTS AND TREE NUTS.",
+    "You might be interested in"
+  ]
+}

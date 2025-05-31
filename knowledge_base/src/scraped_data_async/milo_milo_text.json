@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/milo/milo",
+    "category": "Product",
+    "title": "MILO Chocolate Malt Drink Mix (400g)",
+    "n_tokens": 205,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_product_covert-02-misc-01-25.png",
+        "role": "secondary",
+        "alt": "MILO Chocolate Malt Drink mix, 400 grams. "
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2245178_milo_900g_3d.png?itok=upyR-Qja",
+        "role": "secondary",
+        "alt": "MILO Chocolate Malt Drink mix, 900 grams."
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "MILO",
+    "Where to Buy",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "MILOFeatures and Benefits",
+    "High in calcium, iron and vitamin A",
+    "Fortified with 3 vitamins & minerals",
+    "250 calories per 250 ml serving when made with 2% milk",
+    "MILONutrition Information",
+    "Per 3 tablespoons  (30 g)Amount% DVCalories1300%Carbohydrate20g7%Fibre1g4%Sugars7g0%Fat3g5%Cholesterol5mg0%Saturated Fat1.5g8%Trans Fat0.1g0%Protein3g0%Sodium150mg6%Amount% DVCalcium15%Iron20%Vitamin A80%Vitamin C0%",
+    "MILOIngredients",
+    "Milk powder, barley malt extract, sugar, cocoa, sodium phosphate, dicalcium phosphate, soy lecithin, vitamin a palmitate, thiamine hidrochloride, ferrous fumarate, artificial flavour.",
+    "RECIPES",
+    "MILO Malt & Chocolate Maple Taffy",
+    "This delicious recipe is inspired by the Huron-Wendat’s (and other Indigenous communities) cultural use and understanding of maple trees, its sap, and the traditional methods of processing used to create one of Canada’s most loved and well-known condiment – maple syrup. This sweet and interactive snack is now a popular attraction at sugar shacks (or cabane à sucre) across the country during harvest season.",
+    "MILO Pastillas",
+    "Indulge in a family-friendly, Filipino inspired treat that’s as easy to whip up as it is delicious. These no-bake, bite-sized delights are ideal for summer days when you want to avoid turning on the oven. Made with the rich and chocolatey flavour of MILO, each piece is a sweet, chewy and creamy treat.",
+    "You might be interested in"
+  ]
+}

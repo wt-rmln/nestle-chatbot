@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/coffee-mate",
+    "category": "Product",
+    "title": "COFFEE-MATE",
+    "n_tokens": 68,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-11/grocery-hub-banner_cm-v2-french-vanilla_b3_en.jpg",
+        "role": "secondary",
+        "alt": "Love at first sip"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-11/grocery-hub-banner_cm-v3-group_b3_en.jpg",
+        "role": "secondary",
+        "alt": "Love can come in any flavour"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/delissio-play-button.png",
+        "role": "secondary",
+        "alt": "play button"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-03-halo-mug-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-36-canada-01.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Coffee Mate",
+    "NESCAFÉ",
+    "Ice Cream & Frozen TreatsConfectionery Frozen DessertsHäagen-DazsDrumstickIÖGODel MonteParlourReal Dairy",
+    "Spring & Sparkling WaterMaison PerrierPerrierSan Pellegrino",
+    "Powder",
+    "Facts",
+    "Follow us on social media!",
+    "PLAY",
+    "VIDEO",
+    "Keep Exploring",
+    "It’s how much you add that counts! 1 serving = 35 calories or less.",
+    "Coffee Mate Liquid Enhancers are Proudly Prepared In Canada.",
+    "Nestlé is a proud partner of Food Banks Canada.",
+    "Find COFFEE-MATE Liquid in the dairy aisle"
+  ]
+}

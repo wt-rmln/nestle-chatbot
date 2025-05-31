@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "title": "Complementary Brands",
+    "n_tokens": 65,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/crunch-pops-card.jpg?itok=NsX8DKNn",
+        "role": "secondary",
+        "alt": "crunch-pops-card"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-crunch.png?itok=N56P1its",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/bigturk_2pack.png?itok=4F5oXUSH",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/Big%20Turk_60g_0.jpg?itok=O3tzxNX5",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage.png?itok=CgWI3mhs",
+        "role": "secondary",
+        "alt": ""
+      }
+    ],
+    "url": "https://www.madewithnestle.ca/complementary-brands",
+    "category": "Product"
+  },
+  "text": [
+    "Facts",
+    "A perfect bar for every chocolate lover!",
+    "With a collection of delicious bars in a variety of textures and tastes, it’s easy to find your match made in heaven.",
+    "NESTLÉ CRUNCH POPS",
+    "CRUNCH chocolate bar",
+    "BIG TURK Share Pack",
+    "BIG TURK Bar",
+    "MIRAGE Bar",
+    "MIRAGE Bar 4-Pack",
+    "NESTLÉ BUNCHA CRUNCH",
+    "CRUNCH Chocolate Bar",
+    "Did You Know...",
+    "We measure our environmental impact.See how we're doing"
+  ]
+}

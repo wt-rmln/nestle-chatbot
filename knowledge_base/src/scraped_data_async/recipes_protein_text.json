@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/protein",
+    "category": "Recipe",
+    "title": "Protein",
+    "n_tokens": 303,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/232ebfa11692df160785dd2ed3b6be85_boost_high_protein_banana_chocolate_buckwheat_pancakes.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://img.youtube.com/vi/M2MVy6BfM5w/hqdefault.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/ee0dd59e091facae712cd408432e2d55_BOOST_High_Protein_Berry_Smoothie_Bowl.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://img.youtube.com/vi/15tPe-oXWDk/hqdefault.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/812d1a8faad4d5b218bd8d38be06aafe_BOOST_High_Protein_Homemade_Toaster_Waffles.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Protein",
+    "Buckwheat is an ancient grain packed with, vitamins, minerals and antioxidants and fibre. When combined with chocolate and bananas this snack packs a wallop of flavour.",
+    "Sesame gives this breakfast smoothie an exotic taste with tangy fresh strawberry flavour from the Boost.",
+    "A delicious, fruity snack featuring the complete nutrition of BOOST!",
+    "Start your morning with ease when you prepare these tasty oats, packed with protein from the night before.",
+    "Pop these homemade waffles in the toaster on busy mornings. Boost® adds protein to help fight those mid-morning hunger pangs.",
+    "These energy bars are a great breakfast pick-me-up and even have espresso powder for your morning hit of caffeine.",
+    "Skip the morning muffin, and take on the day like a Rachel Homan with this protein-packed smoothie.",
+    "Who can resist the classic duo of peanut butter and jam nestled into fluffy buttermilk pancakes? These high-protein breakfast stackers are sure to bring you lasting energy for a busy morning.",
+    "Perfect as a high-protein breakfast treat or a delicious anytime snack.",
+    "Serve with fresh fruits for a perfect post-workout snack, or bring to a party for a completely nutritious treat!",
+    "BOOST Vanilla Simply+ Mango Lassi is a refreshing and nourishing delight made with just five ingredients. Not only is this quick and easy to make but it is also packed with goodness that will leave you feeling satisfied. The combination of the smooth vanilla flavour and the natural sweetness of mangoes creates a harmonious blend. For added richness, sprinkle crushed pistachios, dried rose petals or saffron strands on top.",
+    "Perfect as a breakfast treat or a delicious anytime snack.",
+    "Rich, creamy taste, long-lasting energy. That’s what Team Homan calls a win, win.",
+    "This classic combination of banana and chocolate comes together in a warm hearty breakfast.",
+    "Current page1",
+    "Page2",
+    "Next pageNext ›",
+    "Last pageLast »"
+  ]
+}

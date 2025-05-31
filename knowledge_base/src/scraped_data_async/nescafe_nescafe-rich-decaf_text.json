@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-decaf",
+    "category": "Product",
+    "title": "NESCAFÉ Rich Decaf Instant Coffee",
+    "n_tokens": 72,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-04/rich-decaf.png",
+        "role": "secondary",
+        "alt": "Nescafe rich decaf"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/iced.png?itok=fx8kDpaO",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/caramel.png?itok=K93J-MgV",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/intense_0.png?itok=VK1blAbc",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rich-instant-tin.png?itok=VKsiZHcV",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      }
+    ]
+  },
+  "text": [
+    "NESCAFÉ Rich Decaf Instant Coffee",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "100 g jar of instant decaffeinated coffee",
+    "Made from 100% pure coffee beans",
+    "Same great aroma as NESCAFÉ® Rich, but decaffeinated",
+    "Makes over 85 servings",
+    "Zero calories before coffee creamer, coffee whitener or sugar",
+    "Waking up with Canadians for over 75 years",
+    "Per 1 tsp (2 g)Amount% DVCalories5Carbohydrate2gFibre1g4%Fat0g0%Protein0.2g0%Amount% DVPotassium75mg2%",
+    "decaffeinated instant coffee.",
+    "Where to Buy",
+    "You might be interested in"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+    "category": "Product",
+    "title": "DEL MONTE Real Fruit Frozen Bars",
+    "n_tokens": 106,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-06/image-under-banner-new.jpg",
+        "role": "secondary",
+        "alt": "the flavours"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-straw-lemon-tub.png?itok=7FWosQRv",
+        "role": "secondary",
+        "alt": "Del Monte strawberry and lemon tub"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-mango-tub.png?itok=ic2xbQa1",
+        "role": "secondary",
+        "alt": "Del Monte tropical mango tub"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-rasb-choc-tub.png?itok=KzW8C1fk",
+        "role": "secondary",
+        "alt": "Del Monte Rasberry anad chocolate"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/delmonte_mango.png?itok=oY5TDkOX",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Bars",
+    "Facts",
+    "The Taste of Real Fruit!",
+    "Indulge in a Refreshing Blend of Delicious Flavors",
+    "Indulge in a Refreshing blend of delicious frozen treats",
+    "DEL MONTE Strawberry and Lemon Sorbet",
+    "DEL MONTE Tropical Mango Sorbet",
+    "DEL MONTE Raspberries and Chocolate Gelato",
+    "DEL MONTE Mango Frozen Fruit Bars",
+    "DEL MONTE Mixed Berry & Peach Frozen Dessert Bars",
+    "DEL MONTE Strawberry Frozen Fruit Bars",
+    "DEL MONTE Coconut Pineapple Frozen Dairy Dessert Bars",
+    "Did You Know...",
+    "Each 50 ml bar contains 70 calories or less!",
+    "Made in Canada* at our London Ontario factory *From Domestic and Imported ingredients",
+    "Made with no artificial colours or flavours!",
+    "Made with real fruit!"
+  ]
+}

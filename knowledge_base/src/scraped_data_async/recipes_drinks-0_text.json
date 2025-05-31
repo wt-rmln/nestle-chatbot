@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/drinks-0",
+    "category": "Recipe",
+    "title": "Raise Your Glass with These Drink Recipes",
+    "n_tokens": 195,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/nescafe-dalgona-coffee.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/coconut-latte-recipe.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Decorated-Carnation-Hot-Chocolate-Mocha.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/caramel_latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Iced-Shaken-Espresso.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Treat yourself with this delicious twist on iced coffee! Our dalgona coffee recipe is easily made in 3 quick steps, then you can sit back, relax and enjoy",
+    "A chilled tropical latte, sweetened with cane sugar",
+    "A rich, velvety caramel latte, with smooth, frothy milk and a hint of indulgent sweetness.",
+    "This smooth iced classic sweetened with vanilla extract is the ultimate pick-me-up.",
+    "The classic cappuccino, infused with the delicate, slightly sweet flavour of vanilla. Enjoy every sip with flair.",
+    "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "A chilled favourite of rich coffee sweetened with caramel. Oh so refreshing!",
+    "Elevate your iced coffee with toasty notes of brown sugar and cinnamon.",
+    "A robust Vietnamese style iced coffee with the bold taste you love, stirred with condensed milk and served with ice.",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "Open up the possibilities of your day with this cozy recipe."
+  ]
+}

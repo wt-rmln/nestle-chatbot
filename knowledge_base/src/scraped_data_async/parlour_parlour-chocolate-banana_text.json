@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/parlour/parlour-chocolate-banana",
+    "category": "Product",
+    "title": "PARLOUR Chocolate & Banana",
+    "n_tokens": 115,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/4065424_prlr_chcbna_1_5l_3d_eng.png",
+        "role": "secondary",
+        "alt": "Parlour-Chocolate-Banana Thumbnail image"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-vanilla-caramel.png?itok=w_ghdvQm",
+        "role": "secondary",
+        "alt": "parlour vanilla caramel bars pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-juicy-pops-mango-peach-cherry.png?itok=upUXfUWn",
+        "role": "secondary",
+        "alt": "parlour juicy pops mango peach cherry pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-06.png?itok=F8c2-gWa",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2021-09/00055000893008_CF__PNG_Custom.png?itok=hf4yGYQ7",
+        "role": "secondary",
+        "alt": "PARLOUR French Vanilla"
+      }
+    ]
+  },
+  "text": [
+    "PARLOUR Chocolate & Banana",
+    "You’ll go bananas for this playful chocolate and banana treat!",
+    "Where to Buy",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "PARLOUR Chocolate & BananaFeatures and Benefits",
+    "No artificial colours, prepared from natural sources",
+    "Crafted in Canada",
+    "PARLOUR Chocolate & BananaNutrition Information",
+    "Per  1/2 cup   (125 ml)Amount% DVCalories1200%Carbohydrate19g6%Fibre1g4%Sugars15g0%Fat4g6%Cholesterol20mg0%Saturated Fat3.5g18%Trans Fat0.1g0%Protein1g0%Sodium55mg2%Amount% DVCalcium6%Iron2%Vitamin A0%Vitamin C0%",
+    "PARLOUR Chocolate & BananaIngredients",
+    "Modified milk ingredients, sugar, milk ingredients, chocolate ripple (sugar, water, condensed skim milk, glucose, hydrogenated coconut and soybean oils, cocoa salt, carrageenan, artificial flavour, potassium sorbate), glucose, coconut oil, cocoa, mono- and diglycerides, propylene glycol monostearate, cellulose gum, carob bean gum, carrageenan, artificial flavour, colour.            May contain peanuts and tree nuts.",
+    "You might be interested in"
+  ]
+}

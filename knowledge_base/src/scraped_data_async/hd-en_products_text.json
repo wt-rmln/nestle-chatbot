@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/hd-en/products",
+    "category": "Product",
+    "title": "Häagen-Dazs - Products",
+    "n_tokens": 62,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-products-hero-title.svg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-classics-hero.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-nondairy-hero.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-ruby-bowl.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-nondairy-nuts.png",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "DISCOVER YOUR INDULGENCE",
+    "CHOICES,    CHOICES,    CHOICES",
+    "EXTRÄAZ Cookie Dough Dynamo Ice Cream Bars",
+    "EXTRÄAZ Cookies & Cream Ice Cream Bar",
+    "EXTRÄAZ Cookie Butter Crumble Ice Cream",
+    "EXTRÄAZ Key Lime Pie Ice Cream",
+    "EXTRÄAZ COOKIE DOUGH DYNAMO ICE CREAM SINGLE BARS",
+    "Häagen-Dazs exträaz Salted Caramel Crunch",
+    "VANILLA MILK ICE CREAM BARS",
+    "CLASSICS",
+    "Key Lime Pie Ice-cream Bars",
+    "More"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/milkshake",
+    "category": "Recipe",
+    "title": "Shake Up Some Milkshake Recipes",
+    "n_tokens": 62,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/bd1c265beace2eb674142c36d6ef46c5_nesquik_gulabo-_website-_sept_29.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Milkshake",
+    "This Diwali, mix it up with the creamy texture and luscious flavour of Nesquik Strawberry Gulabo! Let this recipe be the highlight of your festivities, bringing a burst of flavour, vibrant colour and a touch of sweetness to your celebrations. Enjoy every sip of these aromatic flavours including strawberry, cardamom and rosewater and share the joy of with your loved ones."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/agriculture",
+    "category": "Sustainability",
+    "title": "Nescafé Make your world - Regenerative agriculture",
+    "n_tokens": 183,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-01/agriculture-nescafe-1.jpg",
+        "role": "secondary",
+        "alt": "Planting a more sustainable farm."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-01/agriculture-nescafe-2.jpg",
+        "role": "secondary",
+        "alt": "Customizing our approach on coffee farms."
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Make Your World",
+    "Help safeguarding coffee for future coffee drinkers and farmers.",
+    "The future of coffee can’t exist without making sustainability a priority. We are devoted to implementing practices that aim to protect coffee farming and coffee farmers, now and in the future.",
+    "What’s agroforestry?",
+    "We use agroforestry on our coffee farms. This means we intentionally grow other trees and plants around our coffee farms to provide shade, improve biodiversity, protect water bodies, and support water retention. It also aims to reduce soil erosion, increase soil cover and capture carbon from the air.",
+    "Customizing our approach on coffee farms.",
+    "Coffee farming isn’t one-size-fits-all. That’s why our agronomists work closely with our coffee farmers to recommend solutions that are right for them, their land, their climate conditions and their landscape.",
+    "Our progress so far",
+    "We’re committed to Nescafé Plan 2030 and are cultivating a difference with every cup. Read about our progress so far and our goals for the future.",
+    "See 2022 Progress ReportNescafé Plan 2030"
+  ]
+}

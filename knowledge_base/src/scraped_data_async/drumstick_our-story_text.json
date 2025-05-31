@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/drumstick/our-story",
+    "category": "Product",
+    "title": "Drumstick - Our Story",
+    "n_tokens": 223,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-about-pkg-en-v2/about-intro-top.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-about-pkg-en-v2/about-intro-middle.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-about-pkg-en-v2/about-intro-bottom.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-about-pkg-en-v2/about-values-local-inset.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-about-pkg-en-v2/about-values-memories-inset.png",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Making Memories Sweeter",
+    "Childhood. Teenage years. Summer days. Summer nights. The ballpark. The carnival. Backyards. Weekends. DRUMSTICK is, was and always will be the undisputed taste of Canada’s summer, bringing people together in moments that matter since 1928.",
+    "It’s the iconic treat with layers of fun, where no two bites are ever the same. You can say, it’s the flavour of joy. From classic cones, iconic combinations, and minis, there is always something for everyone.",
+    "Love for Local",
+    "We put the same care and passion into our people and communities as we do in our products, helping create a brighter future for our collaborators and families alike.",
+    "We are proud supporter of Canadian Dairy industry. Our products are proudly made in Canada, employing over 700 Canadians. There’s like a taste of Canada in every bite.",
+    "Creating Joyful Memories",
+    "The iconic, lovable treat is even better when shared with family and friends. There are layers and textures of fun just waiting to be experienced together.",
+    "From a wide variety of classic and trending flavours, formats, and our mighty minis. Moments and memories were made for DRUMSTICK.",
+    "Supporting Families & Communities",
+    "We are proud supporter of Kids Help Phone, a Canadian institution dedicated to promoting the well-being of kids and families, so no-one is left behind.",
+    "Connect with 24/7 support in 3 ways:",
+    "DrumstickMemories",
+    "@drumstickca"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-caramel-instant-coffee",
+    "category": "Product",
+    "title": "NESCAFÉ Rich Caramel Instant Coffee",
+    "n_tokens": 172,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-04/caramel.png",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/iced.png?itok=fx8kDpaO",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/caramel.png?itok=K93J-MgV",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/intense_0.png?itok=VK1blAbc",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rich-instant-tin.png?itok=VKsiZHcV",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      }
+    ]
+  },
+  "text": [
+    "NESCAFÉ Rich Caramel Instant Coffee",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Wake up and smell the caramel with NESCAFÉ Rich Caramel Coffee (100 g), made from 100% pure coffee beans with a delicious caramel flavour. Simply place one rounded teaspoon of coffee into a mug, add 250 ml of hot water, stir and enjoy. All our coffee beans are responsibly sourced, with traceability and independent checks to ensure our coffee is Grown Respectfully. Make your morning worth waking up for!",
+    "A rich medium roast coffee with a delicious caramel flavour, made using carefully roasted coffee beans of the highest quality",
+    "The perfect cup of coffee is ready in an instant: Add 1 tsp scoop to hot water, stir and enjoy",
+    "Created by Coffee Experts: NESCAFÉ has crafted a cup with 100 percent real coffee, where you can taste the quality instantly",
+    "50 Servings per jar",
+    "Per 1 Tsp (2g)Amount% DVCalories5Carbohydrate2gDietary Fiber1g4%Total Fat0g0%Protein0.1gAmount% DVPotassium40mg1%",
+    "Chicory Root Powder, Instant Coffee, Natural and Artificial Flavour, Acesulfame-Potassium.",
+    "Where to Buy",
+    "You might be interested in"
+  ]
+}

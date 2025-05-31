@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/after-eight",
+    "category": "Product",
+    "title": "AFTER EIGHT",
+    "n_tokens": 100,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/after-eight-bar.png?itok=M8r_tUA6",
+        "role": "package",
+        "alt": "AFTER EIGHT Dark Mint Bar "
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/after-eight-orange-mint.png?itok=SlwoN1CQ",
+        "role": "package",
+        "alt": "AFTER EIGHT Orange Mint Thins"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/mint-thins-dark-chocolate-mint-fondant.png?itok=DFWOrccv",
+        "role": "secondary",
+        "alt": "Mint Thins, Dark Chocolate, Mint Fondant"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/after_eight_300g_1.png?itok=TnKV7Y3y",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/00059800745444_A1N1%2520copy.png?itok=xp8VlLzU",
+        "role": "secondary",
+        "alt": "AFTER EIGHT Strawberry Mint Carton"
+      }
+    ]
+  },
+  "text": [
+    "Ice Cream & Frozen TreatsConfectionery Frozen DessertsHäagen-DazsDrumstickIÖGODel MonteParlourReal Dairy",
+    "Spring & Sparkling WaterMaison PerrierPerrierSan Pellegrino",
+    "Recipes",
+    "Top off tonight’s dinner with a little refreshMINT",
+    "AFTER EIGHT’s refreshing indulgence is the perfect ending to any evening!",
+    "So many ways (and reasons) to celebrate",
+    "AFTER EIGHT Dark Mint Bar",
+    "AFTER EIGHT Classic Mint Thins",
+    "After Eight Strawberry Mint Thins",
+    "AFTER EIGHT Orange Mint Thins",
+    "AFTER EIGHT Skyline Classic Tin",
+    "AFTER EIGHT Chocolate Mint Sticks",
+    "AFTER EIGHT Mint Trio Collection Box",
+    "More",
+    "Keep Exploring",
+    "Amazing AFTER EIGHT Mint Brownies",
+    "These irresistible mint brownies are the perfect after dinner dessert!",
+    "15 mins.",
+    "35 mins."
+  ]
+}

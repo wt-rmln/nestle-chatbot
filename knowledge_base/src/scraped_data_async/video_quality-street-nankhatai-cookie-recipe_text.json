@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/video/quality-street-nankhatai-cookie-recipe",
+    "category": "Video",
+    "title": "QUALITY STREET Nankhatai Cookie Recipe",
+    "n_tokens": 71,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-10/QS%20final%20MWN.jpg",
+        "role": "secondary",
+        "alt": "QUALITY STREET Nankhatai"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/BOOST%20Article%20Image.png",
+        "role": "secondary",
+        "alt": "10 Foods that Give Energy"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-02/Omega3-Feb-Blog-header.jpg",
+        "role": "secondary",
+        "alt": "Omega3-Feb-Blog-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-01/Nestle-Nesquik-Happy-Tummies-banner.jpg",
+        "role": "secondary",
+        "alt": "Nestle-Nesquik-Happy-Tummies-banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-11/Pay-Attention-to-Protein-at-Breakfast-header%20%281%29.jpg",
+        "role": "secondary",
+        "alt": "Pay-Attention-to-Protein-at-Breakfast-mainly-header"
+      }
+    ]
+  },
+  "text": [
+    "QUALITY STREET Nankhatai Cookie Recipe",
+    "Monday, October 30, 2023",
+    "ShareTweetEmailPinPrint",
+    "{\"preview_thumbnail\":\"/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/AUqtpkjgFD8.jpg?itok=JZ02qB3H\",\"video_url\":\"https://youtu.be/AUqtpkjgFD8\",\"settings\":{\"responsive\":1,\"width\":\"854\",\"height\":\"480\",\"autoplay\":1},\"settings_summary\":[\"Embedded Video (Responsive, autoplaying).\"]}",
+    "Latest",
+    "10 Foods that Give You Energy",
+    "Brand",
+    "Exploring Heart Health & Omega-3 Supplements Beyond Fish Oil",
+    "Nutrition",
+    "Nestlé Canada’s Nesquik proudly sponsors the First-Ever National Make Happy Tummies Campaign",
+    "Pay Attention to Protein at Breakfast",
+    "5 Elements of Eating for Energy",
+    "Digestive Balance: It’s in your Nature to Thrive",
+    "Kids  gummies",
+    "Spotlight on the Sunshine Vitamin"
+  ]
+}

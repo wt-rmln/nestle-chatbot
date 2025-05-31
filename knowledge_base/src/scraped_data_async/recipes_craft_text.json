@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/craft",
+    "category": "Recipe",
+    "title": "craft",
+    "n_tokens": 15,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/a28cea77aa8c08c566556c12125a9aba_step5.jfif",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "craft",
+    "Step up your Easter game with this fun and challenging quest for the children."
+  ]
+}

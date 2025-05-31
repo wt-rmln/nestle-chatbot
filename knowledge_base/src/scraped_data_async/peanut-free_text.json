@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/peanut-free",
+    "category": "Product",
+    "title": "Our Peanut Free Chocolate Bars",
+    "n_tokens": 193,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/BOOST%20Article%20Image.png",
+        "role": "secondary",
+        "alt": "10 Foods that Give Energy"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-02/Omega3-Feb-Blog-header.jpg",
+        "role": "secondary",
+        "alt": "Omega3-Feb-Blog-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-01/Nestle-Nesquik-Happy-Tummies-banner.jpg",
+        "role": "secondary",
+        "alt": "Nestle-Nesquik-Happy-Tummies-banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-11/Pay-Attention-to-Protein-at-Breakfast-header%20%281%29.jpg",
+        "role": "secondary",
+        "alt": "Pay-Attention-to-Protein-at-Breakfast-mainly-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-11/5%20Elements%20of%20Eating%20for%20Energy.jpeg",
+        "role": "secondary",
+        "alt": "5-Elements-of-Eating-for-Energy-header"
+      }
+    ]
+  },
+  "text": [
+    "peanut free chocolate bars",
+    "Friday, May 14, 2021",
+    "ShareTweetEmailPinPrint",
+    "At Nestlé Canada, we are committed to providing our very best chocolate bars – KIT KAT, COFFEE CRISP, AERO and SMARTIES – in treat size formats that are made in a Peanut Free Facility.Our ‘Peanut Free’ seal, on the front of all Nestlé Snack Size Formats, identifies that they were produced in a Peanut Free Facility.",
+    "Assuring our products are made in a Peanut Free facility means that our facility has rigorous quality control processes in place to ensure its peanut free status. This includes extensive raw material, ingredient and finished product testing programs, supplier and employee protocols as well as regular audits, employee training, dedicated and certified allergen control staff, and established Good Manufacturing Practices.",
+    "There may be products under the SMARTIES, KIT KAT, AERO, and COFFEE CRISP brands that contain peanuts. Make sure to read the label every time.",
+    "Latest",
+    "10 Foods that Give You Energy",
+    "Exploring Heart Health & Omega-3 Supplements Beyond Fish Oil",
+    "Pay Attention to Protein at Breakfast",
+    "5 Elements of Eating for Energy",
+    "Digestive Balance: It’s in your Nature to Thrive",
+    "Kids  gummies",
+    "Spotlight on the Sunshine Vitamin"
+  ]
+}

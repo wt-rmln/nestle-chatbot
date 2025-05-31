@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-gold-cappuccino",
+    "category": "Product",
+    "title": "NESCAFÉ GOLD Cappuccino Instant Coffee",
+    "n_tokens": 145,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-04/cappuccino.png",
+        "role": "secondary",
+        "alt": "Nescafé gold cappuccino"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/iced.png?itok=fx8kDpaO",
+        "role": "secondary",
+        "alt": "Nescafé rich iced"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/caramel.png?itok=K93J-MgV",
+        "role": "secondary",
+        "alt": "Nescafé rich caramel"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/intense_0.png?itok=VK1blAbc",
+        "role": "secondary",
+        "alt": "Nescafé intense"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/rich-instant-tin.png?itok=VKsiZHcV",
+        "role": "secondary",
+        "alt": "NESCAFÉ Rich Instant Coffee"
+      }
+    ]
+  },
+  "text": [
+    "NESCAFÉ GOLD Cappuccino Instant Coffee",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Discover indulgent moments brewed with the perfect balance of select, high-quality ingredients. NESCAFE GOLD Cappuccino Coffee Mix easily crafts a delicious, coffee-shop inspired cappuccino you can whip up at home – no barista required. A great way to serve up and share a delightful combination of smooth coffee and mouth-watering foam in your perfect cup.",
+    "8 sachets for sharing a perfectly foamy and creamy delight",
+    "Each sachet whips up a delicious, instant cappuccino-flavoured coffee",
+    "50 calories per serving",
+    "Pre-dosed, so there’s no other ingredients required",
+    "Made with high-quality ingredients to exceed your expectations for instant coffee",
+    "Per 14 g sachetAmount% DVCalories50Carbohydrate11gFibre1g4%Sugars6g6%Fat1.5g2%Cholesterol0mgSaturated Fat1g5%Trans Fat0gProtein1gSodium50mg2%Amount% DVCalcium40mg3%Iron0mg0%Potassium125mg4%",
+    "Sugar, Instant Coffee, Glucose Syrup, Skim Milk Powder, Coconut Oil, Lactose, Salt, Milk Fat, Flavour, Dipotassium Phosphate, Sodium Polyphosphate, Sodium Citrate.",
+    "Where to Buy",
+    "You might be interested in"
+  ]
+}

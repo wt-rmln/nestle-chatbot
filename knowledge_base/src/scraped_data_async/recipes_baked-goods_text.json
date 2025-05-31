@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/baked-goods",
+    "category": "Recipe",
+    "title": "Baked Goods",
+    "n_tokens": 114,
+    "n_tables": 0,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/c3228db66d502a4ea4f338efce210559_1080x1080.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/b9a817ad2638857e8be0299ae535587c_qs_final_mwn.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Baked Goods",
+    "Almond cookies are acherished part of LunarNew Year as they areconsidered a symbol of goodfortune. We add a chocolateyKitKat crunch to our recipe,ensuring happiness allaround!This easy recipe bakes updelicious almond scentedcookies with a golden cracklyshell and soft, crumblyinterior, topped off with apiece of our irresistible KitKatMinis!",
+    "Our decadent Nankhatai are imbued with the irresistible aroma of cardamom, caramel, and chocolate! QUALITY STREET Sweets make these Nankhatai unique as no two cookies taste the same! Serve these golden brown cookies with a cup of chai to your guests while they are still soft, gooey and warm from the oven! These Nankhatai cookies are the perfect celebration treat for Diwali and the holiday season."
+  ]
+}

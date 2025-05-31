@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/quality-street",
+    "category": "Product",
+    "title": "QUALITY STREET",
+    "n_tokens": 103,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/quality_street_180_g_tin.png?itok=H-mzhcdH",
+        "role": "secondary",
+        "alt": "QUALITY STREET Celebration Tin, 180 grams. Assortment of caramels, crèmes, and chocolate pralines."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800747790_A3N1_44348591_25.06.2024.png?itok=Cc4Zv-Ca",
+        "role": "secondary",
+        "alt": "QUALITY STREET Holiday Gift Tin"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800751797_A1N1_44350840_25.06.2024_0.png?itok=0g4ZoWtg",
+        "role": "secondary",
+        "alt": "QUALITY STREET Holiday Gift Box"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/quality_street_725_g_tin.png?itok=f_UM7GdN",
+        "role": "secondary",
+        "alt": "QUALITY STREET Celebration Tin, 725 grams. Assortment of caramels, crèmes, and chocolate pralines."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800752077_A1N1_44365123_25.06.2024.png?itok=4gV4qm6p",
+        "role": "secondary",
+        "alt": "QUALITY STREET Share Bag"
+      }
+    ]
+  },
+  "text": [
+    "Ice Cream & Frozen TreatsConfectionery Frozen DessertsHäagen-DazsDrumstickIÖGODel MonteParlourReal Dairy",
+    "Spring & Sparkling WaterMaison PerrierPerrierSan Pellegrino",
+    "Facts",
+    "Diwali",
+    "A Canadian favourite for over 75 years!",
+    "Celebrate with a tin full of tradition. QUALITY STREET is a decadent mix of imported chocolates and caramels that will delight your friends and family.",
+    "Shake, search and sort for your favourite!",
+    "QUALITY STREET Small Tin",
+    "QUALITY STREET Holiday Gift Tin",
+    "QUALITY STREET Holiday Gift Box",
+    "QUALITY STREET Tin",
+    "QUALITY STREET Share Bag",
+    "Did You Know...",
+    "You may also like",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

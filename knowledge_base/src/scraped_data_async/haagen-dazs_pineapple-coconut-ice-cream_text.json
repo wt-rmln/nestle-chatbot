@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/haagen-dazs/pineapple-coconut-ice-cream",
+    "category": "Product",
+    "title": "HÄAGEN-DAZS Pineapple Coconut Ice Cream",
+    "n_tokens": 298,
+    "n_tables": 1,
+    "n_images": 2,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/2025-05/hdz-pineapple-coconut.png",
+        "role": "secondary",
+        "alt": "HAAGEN-DAZS Pineapple Ccnt 450ml"
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-prod-tub_classics_pc.png",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "Pineapple Coconut Ice Cream",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Indulge in the irresistible taste of HÄAGEN-DAZS®Pineapple Coconut Ice Cream. Since 1960, our passion has taken us on a journey to transform only the finest ingredients into a simply extraordinary ice cream experience. Made with 100% Canadian dairy, this tropical-inspired treat combines tangy pineapple pieces and coconut flavour with pure, sweet cream. Every bite of this treat will inspire an exotic getaway.",
+    "An exotic combination of tangy pineapple, coconut and pure, sweet cream.",
+    "Our ice cream is made with 100% Canadian dairy.",
+    "Each tub is finished with a quality seal to guarantee freshness.",
+    "HÄAGEN-DAZS®has been perfecting premium ice cream since 1960.",
+    "Blends perfectly into a homemade Pina Colada or tropical beverage.",
+    "Per 3/4 cup (188 ml)Amount% DVCalories350Carbohydrate38gFibre0g0%Sugars37g37%Fat20g27%Cholesterol90mgSaturated Fat12g63%Trans Fat0.5gProtein5gSodium55mg2%Amount% DVCalcium150mg12%Iron0.3mg2%Potassium225mg5%",
+    "Cream, Concentrated skim milk, Sugar, Pineapple, Liquid egg yolk, Natural flavour.May contain:Peanuts, Tree nuts",
+    "RECIPES",
+    "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM",
+    "Did anyone say ice cream?! These cardamon donuts are taken to the next level with Haagen Dazs flavoured vanilla bean ice cream. Once the donuts are done they are drizzled with honey for an epic bite sure to knock your socks off. For extra flavour, sprinkle cinnamon and cardamon on the ice cream, yum!",
+    "Meringue Sandwiches With Pineapple Coconut Ice Cream",
+    "Delightful mini meringues served with sweet and refreshing pineapple coconut ice cream.",
+    "PISTACHIO AND COCOA DUSTED PICCOLINOS",
+    "Bite-size chocolate ice cream bites with artisanal inspired dustings of pistachio and cocoa.",
+    "Caramel Apple Ice Cream Muffins",
+    "APPLES AND CARAMEL ICE-CREAM MUFFINS",
+    "COFFEE ICE CREAM FUDGE CAKE",
+    "Coffee ice cream sandwiched between layers of rich chocolate cake, coated in chocolate ganache.",
+    "[table]  | Proudly Prepared in Canada using 100% Canadian Dairy",
+    "[table]  | Proudly Prepared in Canada using 100% Canadian Dairy"
+  ]
+}

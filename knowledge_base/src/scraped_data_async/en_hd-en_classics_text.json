@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Häagen-Dazs - Collections - Classics",
+    "n_tokens": 86,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/classics-collection-hero-en/classics-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/classics-collection-hero-en/classics-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/classics-collection-hero-en/classics-mobile-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/classics-collection-hero-en/classics-mobile-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-bottom-tiles-may-2023/hdz-explore-plant-based-bg.png",
+        "role": "package",
+        "alt": ""
+      }
+    ],
+    "url": "https://www.haagen-dazs.ca/en/hd-en/classics",
+    "category": "Product"
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "Tubs & Bars",
+    "Try our new Mango Raspberry or choose from over 20 other classics. Pure, simple, and creamy. The simplest of ingredients can pave the purest paths to extraordinary. Savour one of our timeless Classics.",
+    "Discover your Indulgence",
+    "VANILLA MILK ICE CREAM BARS",
+    "CLASSICS",
+    "Chocolate Hazelnut Single bar",
+    "Coffee Ice Cream",
+    "Chocolate Ice Cream",
+    "Haagen-Dazs Vanilla & Almond",
+    "Salted Caramel Ice Cream Bar",
+    "HÄAGEN-DAZS Vanilla Almond Ice Cream Bars 9 x 88 ml",
+    "More",
+    "View All Products",
+    "Explore",
+    "Exträaz Layers"
+  ]
+}

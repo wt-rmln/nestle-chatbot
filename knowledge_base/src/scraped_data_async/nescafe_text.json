@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescafe",
+    "category": "Product",
+    "title": "Nescafé Gold Espresso",
+    "n_tokens": 227,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-01/nescafe-rich.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-home-pkg-en_2024/standard-btn-arrow.svg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-01/nescafe-gold.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-01/nescafe-sweet.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/NBEV_21000996_Taster%27s_Choice_100g_home_tile.png",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Enjoy your NESCAFÉ",
+    "With a range of flavours and intensities to choose from, there's a NESCAFÉ to suit everyone.",
+    "Discover our brands",
+    "The perfect cup that’s been waking up with Canadians for over 75 years.",
+    "The intensity you want, crafted with care for the moments that matter.",
+    "You are never more than a moment away from a pick me up in a cup.",
+    "Taster’s Choice",
+    "Delivering a smooth taste and rich aroma in an instant, since 1966.",
+    "Make Your World",
+    "How Nescafé is helping coffee farms be more resilient to the impact of climate change.",
+    "Coffee Origins",
+    "Where do coffee beans come from? How are they roasted?",
+    "Coffee Tasting",
+    "Why expert coffee tasters are used for quality control.",
+    "Join the Nestlé community",
+    "Become a member today and get even closer to the brands you love. Discover exclusive coupons, contests, giveaways and more!",
+    "By checking this box, you agree to receive emails and other communications from the Nestle Canada Inc. family of brands regarding products, contests, promotions, offers and related information that may be of interest to you. You can withdraw your consent at any time. Please refer to ourPrivacy PolicyorContact Uspages for more information.",
+    "Stay connected",
+    "Follow us on our social media accounts to get even more tasty content."
+  ]
+}

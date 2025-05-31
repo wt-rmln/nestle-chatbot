@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/real-dairy",
+    "category": "Product",
+    "title": "Nestlé REAL DAIRY Ice Cream",
+    "n_tokens": 139,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-03/real-dairy-creme-brule.png?itok=a-ek7tER",
+        "role": "package",
+        "alt": "real dairy creme brulee pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-03/real-dairy-vanilla-less-fat.png?itok=qQWeU71p",
+        "role": "package",
+        "alt": "real dairy natural vanilla pack"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/real-dairy-cherry-pack.png?itok=0TAVGPcL",
+        "role": "package",
+        "alt": "Black Cherry Premium Ice Cream"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/real-dairy-natural-vanilla-image.png?itok=Wes84odB",
+        "role": "package",
+        "alt": "real dairy natural vanilla image"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/real-dairy-french-vanilla-image.png?itok=k_6pF_Ip",
+        "role": "package",
+        "alt": "real dairy french vanilla image"
+      }
+    ]
+  },
+  "text": [
+    "Facts",
+    "Our belief in nothing artificial",
+    "We have a simple approach to creating our delicious ice cream and frozen Greek Yogourt:  to use only quality ingredients.",
+    "Crafted with our finest ingredients.",
+    "REAL DAIRY Maple Walnut",
+    "REAL DAIRY Crème Brûlée",
+    "REAL DAIRY 50% Less Fat Natural Vanilla",
+    "Black Cherry Premium Ice Cream",
+    "REAL DAIRY Natural Vanilla",
+    "French Vanilla Premium Ice Cream",
+    "REAL DAIRY Chocolate",
+    "Did You Know...",
+    "Made with ingredients from the finest, natural sources and zero artificial colours or flavours.",
+    "Made at our London Ontario factory, which will reach zero waste to landfill in 2015!",
+    "We're proud to support the Canadian dairy industry!",
+    "The vanilla beans used to make REAL DAIRY are ethically sourced and sustainable.",
+    "You may also like",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

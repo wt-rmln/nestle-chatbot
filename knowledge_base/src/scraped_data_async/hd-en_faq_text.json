@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/hd-en/faq",
+    "category": "Support",
+    "title": "Häagen-Dazs - FAQ",
+    "n_tokens": 118,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-faq-extra-bits.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-faq-bar.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-faq-berries.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-disclose-arrow.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "Frequently Asked Questions",
+    "Plant-based Collection",
+    "Allergies",
+    "Ingredients",
+    "Environment",
+    "Purchasing",
+    "Miscellaneous",
+    "What is the base of these products?",
+    "What is the protein source?",
+    "Why is it called Plant-Based?",
+    "Is it Vegan?",
+    "Is it Gluten-Free?",
+    "Where is it made?",
+    "Are there bars?",
+    "IsHäagen-Dazsice cream peanut free?",
+    "IsHäagen-Dazsice cream gluten-free?",
+    "IsHäagen-Dazsice cream kosher?",
+    "What is the source of dairy inHäagen-Dazsice cream?",
+    "What is the source of sugar inHäagen-Dazs?",
+    "DoesHäagen-Dazsice cream contain any artificial colours or flavours?",
+    "Is there alcohol inHäagen-Dazsice cream?",
+    "Where isHäagen-Dazsice cream made?",
+    "AreHäagen-Dazstubs and cartons recyclable?",
+    "What other environmental initiatives isHäagen-Dazsleading?",
+    "Are there anyHäagen-Dazsstores in Canada?",
+    "Where can I buyHäagen-Dazs?",
+    "What is the shelf life ofHäagen-Dazsice cream?",
+    "What happened to the Spirits line?"
+  ]
+}

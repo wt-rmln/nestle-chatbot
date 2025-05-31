@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/help/contact/emergency-contacts",
+    "category": "Support",
+    "title": "Emergency Contact Information (Medical, Allergy or Health Concerns)",
+    "n_tokens": 354,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-11/phone%403x.png",
+        "role": "secondary",
+        "alt": "[field.icon.alt-tag]"
+      }
+    ]
+  },
+  "text": [
+    "Select a Category",
+    "Contact us right away",
+    "At Nestlé Canada, your health and safety and the health and safety of all of our consumers is the most important thing and our #1 priority.If your concern is an emergency related to allergies or health, please consult a doctor or medical professional beforecontacting us.",
+    "We want you to feel confident that the ingredient lists of our products and the details on our packaging are transparent and easy to understand – it’s important to us.  All Nestlé products are required to follow the regulations by Health Canada and the Canadian Food Inspection Agency (CFIA).",
+    "We always recommend that you check label ingredient lists or the “May Contain statements. Priority allergens and sensitivities must be declared on the ingredient list when they are added to pre-packaged products or on precautionary allergen statements if there is a potential for cross-contamination. The “May Contain” statement on a label is meant to warn consumers of the possibility of cross-contamination. At Nestlé, we make all possible efforts to eliminate the potential of the cross-contact of priority food allergens on our processing lines and in our factories.",
+    "All of our product information can be found on our website madewithnestle.ca. We include the features and benefits, nutritional facts, and ingredients of each product so that you can find all the information you need. Please note that the information on the product packaging itself will be the most up-to-date information.",
+    "Should you have any further questions regarding your allergy or our products, we invite you to connect with one of our Consumer Ambassadors for further information via phone and Live Chat.",
+    "For quicker assistance, please keep the packaging on hand. Provide as many details as possible",
+    "UPC bar code",
+    "Manufacturing code",
+    "Best before date",
+    "Store name and location of purchase",
+    "Any photos of the product",
+    "If medical attention has been or will be sought",
+    "Any other details to help us to better understand your experience",
+    "We will be sure to share this information with our Quality Assurance team for awareness and improvements.",
+    "Talk to us",
+    "Call us toll-free so that we can assist you immediately."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/del-monte-frozen-desserts-tubs",
+    "category": "Product",
+    "title": "Del-Monte-Frozen-Dessrts-Tubs",
+    "n_tokens": 34,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/del-monte-straw-lemon-tub.png?itok=Yo5YIyUR",
+        "role": "secondary",
+        "alt": "Del Monte strawberry and lemon tub"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/del-monte-mango-tub.png?itok=mjfkJsZK",
+        "role": "secondary",
+        "alt": "Del Monte tropical mango tub"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/del-monte-rasb-choc-tub.png?itok=WNuZHQg6",
+        "role": "secondary",
+        "alt": "Del Monte Rasberry anad chocolate"
+      }
+    ]
+  },
+  "text": [
+    "Bars",
+    "Facts",
+    "The taste of real fruit!",
+    "Cool down with the refreshing taste of your favourite fruits.",
+    "DEL MONTE Strawberry and Lemon Sorbet",
+    "DEL MONTE Tropical Mango Sorbet",
+    "DEL MONTE Raspberries and Chocolate Gelato"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+    "category": "Product",
+    "title": "CARNATION Hot Chocolate",
+    "n_tokens": 430,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-12/CHC_AmazonStore2021_HeroBanner.jpg",
+        "role": "package",
+        "alt": "Placeholder"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-04/2024-MWN-Carnation.jpg",
+        "role": "secondary",
+        "alt": "How to make the perfect frozen hot chocolate banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-04/2024-MWN-Carnation-frozen-recipe-banner.jpg",
+        "role": "recipe",
+        "alt": "How to make the perfect frozen hot chocolate banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6374650_Carnation_00065000134124_A1C1__.png?itok=kZbW3GOj",
+        "role": "secondary",
+        "alt": " CARNATION Rich & Creamy Hot Chocolate Canister 1.7 kg"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6374665_Carnation_00065000116052_A1C1__.png?itok=EJtEB2sB",
+        "role": "secondary",
+        "alt": "NESTLÉ CARNATION Rich and Creamy Hot Chocolate, 450 g Canister "
+      }
+    ]
+  },
+  "text": [
+    "Carnation Hot Chocolate",
+    "Nesquik",
+    "Canada’s #1 hot chocolate!",
+    "CARNATION Hot Chocolate gives families across Canada a warm hug.",
+    "For more of Canada’s best selling hot chocolate, follow…",
+    "CARNATION Rich & Creamy Hot Chocolate Canister",
+    "Carnation Hot Chocolate Rich & Creamy Canister",
+    "CARNATION Rich and Creamy Hot Chocolate",
+    "CARNATION Hot Chocolate Light",
+    "CARNATION Rich and Creamy Hot Chocolate 30 Capsules",
+    "Carnation Marshmallow Canister",
+    "CARNATION Marshmallow Hot Chocolate",
+    "​  Nestlé CARNATION Turtles Hot Chocolate",
+    "More",
+    "Keep Exploring",
+    "Frozen Hot Chocolate",
+    "7 Cool Ways to Enjoy Hot Chocolate This Summer",
+    "Bite-Size Chocolate Cinnamon Pets de Soeur",
+    "Pets de sœur, literally translated as Nun farts,…and also known to some as “Croxignolles” is a French-Canadian dessert that is often made up from left over pie dough; at times from Tourtière. This quick and easy dessert was can be craft to avoid food waste and ensure that every last ingredient and bite is enjoyed and devoured. This take on a classic French-Canadian treat is rolled with an irresistible Carnation Hot Chocolate and cinnamon filling, then baked instead of fried.",
+    "20 mins.",
+    "Carnation Frozen Hot Chocolate",
+    "Create the perfect summer indulgent treat, frozen hot…chocolate. Simply blend with ice and milk, then enjoy!",
+    "3 mins.",
+    "Decorated Carnation Hot Chocolate Mocha",
+    "13 mins.",
+    "Iced Kit Kat Whipped Hot Chocolate",
+    "Indulge in the ultimate chocolate lover's dream…with our decadent Kit Kat Whipped Hot Chocolate recipe. Sip, savour, and enjoy the blissful combination of creamy Carnation Hot Chocolate Whip Cream, rich and smooth Kit Kat spread, crunchy KitKat toppings and refreshing cold milk. Our Iced Kit Kat Whipped Hot Chocolate is the ultimate indulgence, perfect for any time of the year. Treat yourself to this delightful creation and let the flavours transport you to a world of chocolatey paradise.",
+    "Mexican Hot Chocolate",
+    "Our Mexican Hot Chocolate recipe combines the…smooth and creamy texture of Carnation Hot Chocolate with a subtle kick of cayenne pepper and the comforting warmth of cinnamon. Whether you're seeking a cozy treat on a chilly evening or looking to add a touch of excitement to your hot chocolate routine, our Mexican Hot Chocolate recipe is the perfect choice. Grab your favorite mug and prepare to savour every sip.",
+    "5 mins.",
+    "Carnation Hot Chocolate Mocha Sphere",
+    "Unleash your inner chocolatier and have a…blast preparing these indulgent treats. As you melt open the chocolate shell, be prepared to discover a hidden treasure of mini marshmallows, perfectly blended with the richness of Carnation Hot Chocolate and your favourite Nescafé. These mocha spheres offer a special moment to cozy up and treat yourself to a comforting and heavenly chocolatey experience.",
+    "10 mins."
+  ]
+}

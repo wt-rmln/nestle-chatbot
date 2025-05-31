@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/spicy",
+    "category": "Recipe",
+    "title": "Deliciously Different Spicy Recipes",
+    "n_tokens": 60,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/350f90e2c9b822f2488e61543b13875e_maggi_final.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Spicy",
+    "A deliciously different way to prepare sabzi, our Subz Mast Masala makes dinner prep easy, thanks to MAGGI Tamarina Sauce and MAGGI Masala Chilli Sauce. You don’t have to add any masalas, just add your favourite vegetables to this spicy roasted medley and watch your family savour this vegetarian dish that is crispy, tasty, and mast all at once!"
+  ]
+}

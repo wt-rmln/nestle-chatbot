@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/hd-en",
+    "category": "Product",
+    "title": "HÄAGEN-DAZS Ice Cream",
+    "n_tokens": 134,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-homepage-banners-may-2023-en/plant-fudge-2.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-homepage-banners-may-2023-en/plant-fudge-3.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-homepage-banners-may-2023-en/plant-fudge-4.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-homepage-banners-may-2023-en/plant-fudge-6.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-homepage-banners-may-2023-en/plant-peanut-butter-1.png",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "60 yearsin the making",
+    "Crafted by Canadiansfor Canadians",
+    "PLANT-BASED",
+    "It's Dazs like never before. A new plant-based, vegan treat made with oats that takes creaminess to the next level.",
+    "ExploreExtraaz",
+    "Voted the Best New Premium Ice Cream Tub in 2025 by Consumers*",
+    "CLASSICS",
+    "Indulge in the rich, creamy goodness of Chocolate, Vanilla, and Coffee in our new large size tubs. Perfect for sharing or savouring solo. Plus, discover our 15+ other delectable classic flavours. Pure, simple, and irresistibly creamy.",
+    "Exploreclassics",
+    "EXTRÄAZLAYERS",
+    "Feel the love in every layer. Iconic ice cream, smooth sauce and crispy layers in every bite.",
+    "Experience a new level of indulgence. Decadent creations packed with rich ripples and delectable pieces.",
+    "60 Yearsof craft",
+    "What makes us who we are",
+    "See our story",
+    "CREATE WITH US",
+    "@HAAGENDASZCA"
+  ]
+}

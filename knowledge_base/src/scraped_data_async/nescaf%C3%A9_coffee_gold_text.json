@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/coffee/gold",
+    "category": "Product",
+    "title": "Nescafe - Collection - Gold",
+    "n_tokens": 103,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-11/nescafe-gold-video-poster%402x.jpg",
+        "role": "secondary",
+        "alt": "coffee beans"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-colombia-colombie-header.png?itok=8T-ZgNSs",
+        "role": "secondary",
+        "alt": "nescafe-gold-colombia-colombie-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-medium-moyen-header.png?itok=egewEBqR",
+        "role": "secondary",
+        "alt": "nescafe-gold-medium-moyen-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescage-gold-dark-fonce-header.png?itok=mg5ZsL7C",
+        "role": "secondary",
+        "alt": "nescafe-gold-dark-fonce-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/cappuccino.png?itok=WOLba_qf",
+        "role": "secondary",
+        "alt": "Nescafé gold cappuccino"
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Gold",
+    "Crafted for a great taste with a range of flavours and intensities, there’s something for everyone to enjoy.",
+    "NESCAFÉ GOLD™ Espresso",
+    "Made with a smooth blend of Arabica coffee and a velvety layer of coffee crema, you can brew a small cup full of extraordinary flavour. Perfect for making a traditional espresso, or a delicate cup of Americano.",
+    "Explore by brand",
+    "Explore by format",
+    "View more",
+    "Sweet &Creamy",
+    "Taster’sChoice",
+    "Stay connected",
+    "Follow us on our social media accounts to get even more tasty content."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/cakescupcakes",
+    "category": "Recipe",
+    "title": "cakes&cupcakes",
+    "n_tokens": 31,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/23c20d294a8eeaf05ffa227547e96243_coconut_mousse2.jfif",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "cakes&cupcakes",
+    "Smooth, creamy, and decadent... these are just SOME of the amazing descriptors for out KitKat Coconut mousse. If you're looking for something new to try this Easter, you've found it."
+  ]
+}

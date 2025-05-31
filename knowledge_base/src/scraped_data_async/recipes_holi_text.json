@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/holi",
+    "category": "Recipe",
+    "title": "Holi",
+    "n_tokens": 364,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/14f6fa5c9f8cc85065f6c0ef7f02e10b_nestle_eid_recipe__web_orange_scented_gulab_jamun.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/d493abf0b253ee76ec8f24e14e688868_nestle_eid_recipe__web_mawa_kheer.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/860048f4da6d5eeadd38492c750051eb_chocolate_coconut_kulfi-027-960x640-_high_res.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/be5225ccac29717236f19f2c2bbe55d9_chocolate_hazelnut_pistachio_burfi-029-960x6400-_low_res.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/9f0e69304e1558c8fcc0ba0c6cd12806_maggi_20003_world_foods_website_recipes_chickpea_salad_webpage.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Holi",
+    "Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup. As per tradition, the syrup has a delicate rose flavour: Gulab means 'rose water' and jamun refers to a berry of a similar size and colour.Try making this delicious orange scented Gulab Jamun and elevate your next dinner party.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "Similar to rice pudding and sprinkled with raisins, almonds, and cashews, this decadent treat, often made for special occasions such as Ramadan, Holi or Diwali, makes a great special pudding any time. Try this Mawa Kheer recipe and discover an easy and quick dessert to impress your friends and family at home.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "These milky, sweet, and delicious frozen treats are sure please everybody’s taste buds! Add cardamom, chocolate, coconut or coffee for a little extra flavour.",
+    "Burfi (also known as barfi) is a popular dessert that is commonly served to celebrate a special occasion, such as a wedding or gathering, and throughout the Diwali festival! This delicious, fudge-like dessert can be made with a variety of toppings and flavourings (such as nuts, spices and floral essences like rose water or saffron). This rendition is made with creamy coconut milk and studded with decadent chocolate for the ultimate holiday indulgence",
+    "This colourful Chana Chaat Chickpea Salad combines all the flavours, sweet, salty and uses our signature tangy Maggi Sweet and Hot Sauce. Give the recipe a try and enjoy it for your Holi celebrations or even just a nice side salad for your next dinner with the family!"
+  ]
+}

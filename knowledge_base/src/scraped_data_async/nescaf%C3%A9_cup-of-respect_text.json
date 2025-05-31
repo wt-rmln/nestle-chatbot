@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/cup-of-respect",
+    "category": "Sustainability",
+    "title": "Nescafe - COR - Cup of Respect",
+    "n_tokens": 470,
+    "n_tables": 1,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-landing-pkg/respect-grown.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-landing-pkg/respect-made.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-landing-pkg/respect-packaged.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-landing-pkg/cor-map.jpg",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Cup of Respect",
+    "Learn how a cup of Nescafé impacts the future of coffee",
+    "Our coffee is grown, made and packaged in a way that respects the environment and the people who farm the coffee beans. Our hope is that when you learn what we are doing around the world, you will see how it will impact the future of coffee.",
+    "Grown Respectfully",
+    "NESCAFÉ's responsible sourcing journey starts with the men and women who grow our coffee beans.",
+    "Made Respectfully",
+    "We're respecting the planet by working to make all our coffee production more sustainable.",
+    "Packaged Respectfully",
+    "When we put so much respect into our coffee, it's only natural that we'll care just as much about what we sell it in.",
+    "The Nescafe Plan – A Decadeof Progress",
+    "We are committed to sourcing every cup of NESCAFÉ coffee responsibly, improving the economic and social wellbeing of farmers and their communities, and setting higher environmental standards in our value chain.",
+    "We have invested $475 million to date in activities that we believe are essential to making coffee more sustainable. Achieving our initial goals has only marked the beginning of our journey.",
+    "75%",
+    "235 M",
+    "46%",
+    "53%",
+    "We partner with the Rainforest Alliance to monitor and evaluate the progress of our work in farm economics, as well as social and environmental impact. With this vital data we are able to adapt and improve our work, helping to bring long-term sustainability to thousands of coffee farmers.",
+    "[table] 70% of total Nescafé coffee supplies to be responsible sourced | 75%",
+    "[table] Improving the quality, quantity and sustainability of our coffee supply chain by distributing 220 million coffee plantlets | 235 M",
+    "[table] Improving coffee farm economics in at least four coffee-sourcing countries | Mexico, Côte d’Ivoire, Honduras and Vietnam",
+    "[table] Monitering and improving labor rights in at least two coffee-sourcing countries | Mexico and Philippines",
+    "[table] Reducing by 35% (vs. 2010) GHG emissions (scope 1 and 2) per metric ton of soluble coffee | 46%",
+    "[table] Reducing by 35% (vs. 2010) direct water withdrawal per metric ton of soluble coffee | 53%",
+    "[table] 70% of total Nescafé coffee supplies to be responsible sourced | 75%",
+    "[table] Improving the quality, quantity and sustainability of our coffee supply chain by distributing 220 million coffee plantlets | 235 M",
+    "[table] Improving coffee farm economics in at least four coffee-sourcing countries | Mexico, Côte d’Ivoire, Honduras and Vietnam",
+    "[table] Monitering and improving labor rights in at least two coffee-sourcing countries | Mexico and Philippines",
+    "[table] Reducing by 35% (vs. 2010) GHG emissions (scope 1 and 2) per metric ton of soluble coffee | 46%",
+    "[table] Reducing by 35% (vs. 2010) direct water withdrawal per metric ton of soluble coffee | 53%"
+  ]
+}

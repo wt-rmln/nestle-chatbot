@@ -1,0 +1,37 @@
+[
+  {
+    "headers": [
+      "NESCAFÉ Plan 2020 Targets",
+      "2020 Achievements",
+      "Responsible sourcing",
+      "Improving livelihoods",
+      "Reduce our environmental impact"
+    ],
+    "rows": [
+      [
+        "70% of total Nescafé coffee supplies to be responsible sourced",
+        "75%"
+      ],
+      [
+        "Improving the quality, quantity and sustainability of our coffee supply chain by distributing 220 million coffee plantlets",
+        "235 M"
+      ],
+      [
+        "Improving coffee farm economics in at least four coffee-sourcing countries",
+        "Mexico, Côte d’Ivoire, Honduras and Vietnam"
+      ],
+      [
+        "Monitering and improving labor rights in at least two coffee-sourcing countries",
+        "Mexico and Philippines"
+      ],
+      [
+        "Reducing by 35% (vs. 2010) GHG emissions (scope 1 and 2) per metric ton of soluble coffee",
+        "46%"
+      ],
+      [
+        "Reducing by 35% (vs. 2010) direct water withdrawal per metric ton of soluble coffee",
+        "53%"
+      ]
+    ]
+  }
+]

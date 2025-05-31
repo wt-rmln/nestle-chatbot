@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/ProteinResult",
+    "category": "Product",
+    "title": "Boost - Protein Result",
+    "n_tokens": 267,
+    "n_tables": 2,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-footer-splash-v2/boost-footer-splash.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-footer-splash-v2/health-science.svg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/boost_protein-has-many-diverse-roles-in-the-body_0.png",
+        "role": "secondary",
+        "alt": "boost_protein-has-many-diverse-roles-in-the-body"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/boost_how-much-protein-should-you-consume-a-day_0_0.png",
+        "role": "secondary",
+        "alt": "Boost"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2021-02/boost_whats-is-prontein_0.png",
+        "role": "secondary",
+        "alt": "boost_whats-is-prontein"
+      }
+    ]
+  },
+  "text": [
+    "Protein Hub",
+    "Recipes",
+    "Inspiration",
+    "Great taste guarantee",
+    "When diet’s not enough, get the protein, vitamins and minerals you need to keep doing what you love.",
+    "1Tell Us About Yourself",
+    "Step 1/4",
+    "Your age and weight will help us estimate how much protein your body needs every day.",
+    "All fields are required. Must be at least 20 years of age.",
+    "Imperial",
+    "lbs",
+    "Height",
+    "ALL ABOUT PROTEIN",
+    "PROTEIN HAS MANY DIVERSE ROLES IN THE BODY",
+    "Action link",
+    "WHY SHOULD YOU CONSUME PROTEIN?",
+    "WHAT IS PROTEIN?",
+    "Source:1.IOM, NAS. DRI Intakes for Energy, Carbohydrate, Fiber, Fatty Acids, Cholesterol, Protein, and Amino Acids. 2005. Available at: www.nap.edu/read/10490/chapter/1. 2.Arentson-Lantz E et al. Appl Physiol Nutr Metab. 2015;40(8):755-761. 3.Bauer J et al. J Am Med Dir Assoc. 2013;14(8):542-559. 4.Deutz NE et al. Clin Nutr. 2014;33(6):929-936. 5.Hannan MT et al. J Bone Miner Res. 2000;15(12):2504-2512. 6.Bonjour JP. Horm Mol Biol Clin Investig. 2016;28(1):39-53. 7.Timmerman KL. Am J Clin Nutr. 2012;95:1403-1412. 8.Phillips, SM. Front Nutr. 2017;4(13):1-10. 9.Sleisenger MH and Kim YS. NEJM. 1979;300:659-663. 10.Paddon-Jones D, Leidy H. Curr Opin Clin Nutr Metab Care. 2014;17(1):5-11. 11.Wolfe RR et al. Adv Nutr. 2017,15;8(2):266-275. 12.Richter CK et al. Adv Nutr. 2015;6:712-728. 13.Vega-Galvez A et al. J Sci Food Agr. 2010;90:2541-2547. 14.USDA, ARS. 2016. What We Eat in America, NHANES, 2013-2014. Available at: www.ars.usda.gov/nea/bhnrc/fsrg. 15.Chernoff R. J Am Coll Nutr. 2004;23(suppl 6):627S-630S.",
+    "You may also like",
+    "BOOST Kids Essentials Vanilla",
+    "BOOST Kids Fruit Essentials",
+    "BOOST Kids Essentials Chocolate",
+    "BOOST Kids Fruit Essentials Tropical",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe",
+    "[table] Height:ftin",
+    "[table] Height:mcm",
+    "[table] Height:ftin",
+    "[table] Height:mcm"
+  ]
+}

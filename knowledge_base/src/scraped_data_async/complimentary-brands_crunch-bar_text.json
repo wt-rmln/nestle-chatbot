@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar",
+    "category": "Product",
+    "title": "Crunch chocolate bar - combination of crisped rice and milk chocolate",
+    "n_tokens": 84,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_product_complimentary-01-crunch.png",
+        "role": "secondary",
+        "alt": "Crunch-Bar crun imentary icon"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-01/crunch-pops-card.jpg?itok=5k9ikFg0",
+        "role": "secondary",
+        "alt": "crunch-pops-card"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/bigturk_2pack.png?itok=43mtKddK",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-01/Big%20Turk_60g_0.jpg?itok=ZU1H5SvT",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_complimentary-01-mirage.png?itok=FE_PXaZ-",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Facts",
+    "Complementary Brands",
+    "CRUNCH chocolate bar",
+    "Where to Buy",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "CRUNCH chocolate barFeatures and Benefits",
+    "Airy crispies and a rich chocolate taste!",
+    "Made with Nestlé Cocoa Plan cocoa",
+    "CRUNCH chocolate barNutrition Information",
+    "Per 1 bar (44 g)Amount% DVCalories220Carbohydrate30g10%Fibre1g4%Sugars24gFat11g17%Cholesterol5mg2%Saturated Fat7g36%Trans Fat0.1gProtein2gSodium60mg3%Amount% DVCalcium4%Iron2%Vitamin A2%Vitamin C0%",
+    "CRUNCH chocolate barIngredients",
+    "Milk chocolate (sugar, cocoa mass, cocoa butter, milk ingredients, lactose, soya lecithin, artificial flavour), rice crisps (rice flour, sugar, salt, malt extract). May contain nuts, peanuts and wheat.",
+    "You might be interested in"
+  ]
+}

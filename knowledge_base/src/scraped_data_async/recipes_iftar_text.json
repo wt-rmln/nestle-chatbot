@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/iftar",
+    "category": "Recipe",
+    "title": "Explore Recipes for Iftar",
+    "n_tokens": 23,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/2a20f85e0df5537888b87844b99681c2_maggi_chicken_2.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Iftar",
+    "A delicious way to break your fast at Iftar, this easy recipe comes together very quickly and tastes great with warm naan!"
+  ]
+}

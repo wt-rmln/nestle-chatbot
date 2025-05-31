@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/made-respectfully",
+    "category": "Product",
+    "title": "Nescafe - COR - Made Respectfully",
+    "n_tokens": 453,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-made-pkg/respect-made.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-made-pkg/cor-made-taste.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-made-pkg/cor-made-water.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-made-pkg/cor-made-ahead.jpg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/nescafe-cor-touts-pkg/cor-touts-bg.jpg",
+        "role": "package",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Made Respectfully",
+    "Tackle climate change withevery cup",
+    "We’re respecting the planet by working to make all our coffee production more sustainable. That means encouraging agricultural biodiversity on the land, saving water and reducing carbon emissions at every step of the way from farm to factory.",
+    "Canadian targets and ambitions",
+    "CARBON RESPECT– We have a clear target and roadmap to achieve net zero greenhouse gas emissions by 2050 and halve them by 2030.",
+    "WATER RESPECT– We reduced water use across our operation and worked with farmers in Vietnam to maintain the same high yield from their crops using 30-40% less water.",
+    "BIODIVERSITY RESPECT– We promote biodiversity on farms through multicropping which rewards farmers for doing things like planting new hedgerows and wildflowers in the edges of their fields.",
+    "Great tasting coffee 15 years in the making",
+    "We breed easier-to-grow, and more disease-resistant coffee trees that produce more flavoursome beans on behalf of our coffee growers. We’ve given out 235 million plantlets so far.",
+    "It takes about 15 years to create new elite varieties, and another five to test the trees in the local conditions where they’ll grow.",
+    "So far, we’ve released10 new delicious arabica varieties and five new robusta. Ongoing trials will continue to deliver more deliciousness in years to come.",
+    "Putting less water in our coffee",
+    "We’ve demonstrated that quality coffee can be grown using 50-70% less irrigation water. If all farmers adopted this practice, it could save the equivalent of 30% of yearly water consumption.",
+    "To help optimise water use, we developed a free weather forecasting app tailored to each farmer’s area showing them the best time to irrigate their crops.",
+    "We’ve also improved the efficiency of our factories, saving the equivalent of 7,850 Olympic swimming pools of water every year.That’s 56 billion coffee cups– enough to go round the Earth 126 times!",
+    "Steaming ahead",
+    "We use steam to create the spray-dried coffee in your NESCAFÉ Rich. Our best-in-class plants burn the waste coffee grounds for fuel to make the steam (grounds were previously thrown away).",
+    "Innovative nozzles that use 50% less steam are being installed and we are proud to say we’ve reduced carbon emissions from our factories by half in the last 10 years. That’s the same as thefuel load of 1,058 wide-bodied passenger jets– every year! Our goal is to reach net zero.",
+    "We partner with the Rainforest Alliance to monitor and evaluate the progress of our work in farm economics, as well as social and environmental impact. With this vital data we are able to adapt and improve our work, helping to bring long-term sustainability to thousands of coffee farmers."
+  ]
+}

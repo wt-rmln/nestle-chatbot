@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/coffee-mate-liquid",
+    "category": "Product",
+    "title": "Coffee Mate Liquid",
+    "n_tokens": 49,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-03/05_Hero_Banner_PreparedinCanada_EN.png",
+        "role": "package",
+        "alt": "Prepared in Canada banner with the maple leaf"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2023-11/grocery-hub-banner_cm-v2-french-vanilla_b3_en.jpg",
+        "role": "secondary",
+        "alt": "Love at first sip banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/COFFEE-MATE-LT-DED-header.png?itok=W3sMtPPD",
+        "role": "secondary",
+        "alt": "COFFEE-MATE-LT-DED-header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/00055000981347_A1C1%20%281%29%20%281%29.png?itok=kLX6GP_M",
+        "role": "secondary",
+        "alt": "COFFEE-MATE Double Double-mate"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/French_vanilla_946ml_0.png?itok=HtH-KiVa",
+        "role": "secondary",
+        "alt": "COFFEE MATE Zero Sugar French Vanilla"
+      }
+    ]
+  },
+  "text": [
+    "Coffee Mate Liquid",
+    "Powder",
+    "Facts",
+    "COFFEE MATE Limited Edition KIT KAT",
+    "COFFEE MATE Double Double-mate",
+    "COFFEE MATE French Vanilla",
+    "COFFEE MATE Hazelnut",
+    "COFFEE MATE Caramel Macchiato Liquid Coffee Enhancer",
+    "COFFEE MATE Zero Sugar French Vanilla",
+    "COFFEE MATE AFTER EIGHT Liquid Coffee Enhancer",
+    "COFFEE MATE TURTLES Liquid Coffee Enhancer",
+    "More"
+  ]
+}

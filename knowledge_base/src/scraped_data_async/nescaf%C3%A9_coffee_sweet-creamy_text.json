@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nescaf%C3%A9/coffee/sweet-creamy",
+    "category": "Product",
+    "title": "Nescafe - Collection - Sweet & Creamy",
+    "n_tokens": 60,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-original.png?itok=kCSVQEL0",
+        "role": "secondary",
+        "alt": "Nescafé sweet and creamy original"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-fr-van.png?itok=pwdUbZaY",
+        "role": "secondary",
+        "alt": "Nescafé sweet and creamy french vanilla"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-mocha.png?itok=4mKgd8pH",
+        "role": "secondary",
+        "alt": "Nescafé sweet and creamy mocha"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/simply-creamy.png?itok=VMFmZRVj",
+        "role": "secondary",
+        "alt": "Nescafe Simply Creamy Sachet"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-09/iced-coffee.png?itok=XvgVcbli",
+        "role": "secondary",
+        "alt": "NESCAFE Sweet & Creamy Iced Original Instant Coffee Mix"
+      }
+    ]
+  },
+  "text": [
+    "Our Coffees",
+    "80 Degrees",
+    "Rich",
+    "GOLD",
+    "Sweet & Creamy",
+    "Taster's Choice",
+    "The NESCAFÉ Story",
+    "Recipes NESCAFÉ",
+    "Understanding Coffee",
+    "Each single serve packet includes all the coffee, creamer, and sugar you need to create a delicious cup.",
+    "Explore by brand",
+    "Explore by format",
+    "Sweet &Creamy",
+    "Taster’sChoice",
+    "Stay connected",
+    "Follow us on our social media accounts to get even more tasty content."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.haagen-dazs.ca/en/haagen-dazs/vanilla-ice-cream-0",
+    "category": "Product",
+    "title": "Vanilla Ice Cream",
+    "n_tokens": 286,
+    "n_tables": 1,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/hdz-prod-tub_classics_van.png",
+        "role": "secondary",
+        "alt": "Alt text placeholder"
+      }
+    ]
+  },
+  "text": [
+    "Vanilla Ice Cream",
+    "Description",
+    "Features and Benefits",
+    "Nutrition Information",
+    "Ingredients",
+    "Indulge in the irresistible taste of HÄAGEN-DAZS® Vanilla Ice Cream (450 ml). Since 1960, our passion has taken us on a journey to transform only the finest ingredients into a simply extraordinary ice cream experience. This flavour is the essence of elegance and sophistication, blending Madagascar vanilla with pure, sweet cream. Made with 100% Canadian dairy, this beloved flavour is a delicious indulgence.",
+    "A sophisticated blend of vanilla and pure, sweet cream.",
+    "Our ice cream is made with 100% Canadian dairy.",
+    "Crafted with vanilla sourced exclusively from Madagascar.",
+    "HÄAGEN-DAZS® has been perfecting premium ice cream since 1960.",
+    "Elevate your dessert by pairing it with HÄAGEN-DAZS® Vanilla ice cream.",
+    "Amount% DVCalories360Carbohydrate30gDietary Fibre0g0%Sugars29g29%Fat24g32%Cholesterol110mgSaturated15g78%Trans Fat0.5gProtein6gSodium65mg3%Amount% DVCalcium200mg15%Iron0.3mg2%Potassium250mg5%",
+    "Cream, concentrated skim milk, sugar, liquid egg yolk, vanilla extract. May contain peanuts / nuts.",
+    "RECIPES",
+    "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM",
+    "Did anyone say ice cream?! These cardamon donuts are taken to the next level with Haagen Dazs flavoured vanilla bean ice cream. Once the donuts are done they are drizzled with honey for an epic bite sure to knock your socks off. For extra flavour, sprinkle cinnamon and cardamon on the ice cream, yum!",
+    "Meringue Sandwiches With Pineapple Coconut Ice Cream",
+    "Delightful mini meringues served with sweet and refreshing pineapple coconut ice cream.",
+    "PISTACHIO AND COCOA DUSTED PICCOLINOS",
+    "Bite-size chocolate ice cream bites with artisanal inspired dustings of pistachio and cocoa.",
+    "Caramel Apple Ice Cream Muffins",
+    "APPLES AND CARAMEL ICE-CREAM MUFFINS",
+    "COFFEE ICE CREAM FUDGE CAKE",
+    "Coffee ice cream sandwiched between layers of rich chocolate cake, coated in chocolate ganache.",
+    "[table]  | Proudly Prepared in Canada using 100% Canadian Dairy",
+    "[table]  | Proudly Prepared in Canada using 100% Canadian Dairy"
+  ]
+}

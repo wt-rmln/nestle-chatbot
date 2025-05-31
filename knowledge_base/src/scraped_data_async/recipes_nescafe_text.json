@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/nescafe",
+    "category": "Recipe",
+    "title": "Discover Delicious Nescafé Recipes",
+    "n_tokens": 154,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Mocha-Sphere.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/maple-pecan-latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Vietnamese-Iced-Coffee-resized.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Nescafe%20Iced%20Pumpkin%20Spiced%20Latte.jpg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2024-10/Nescafe%20Flat%20White.jpg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Nescafe",
+    "Unleash your inner chocolatier and have a blast preparing these indulgent treats. As you melt open the chocolate shell, be prepared to discover a hidden treasure of mini marshmallows, perfectly blended with the richness of Carnation Hot Chocolate and your favourite Nescafé. These mocha spheres offer a special moment to cozy up and treat yourself to a comforting and heavenly chocolatey experience.",
+    "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "A robust Vietnamese style iced coffee with the bold taste you love, stirred with condensed milk and served with ice.",
+    "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "Open up the possibilities of your day with this cozy recipe."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/boost/products",
+    "category": "Product",
+    "title": "Boost - Products",
+    "n_tokens": 137,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-footer-splash-v2/boost-footer-splash.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/boost-footer-splash-v2/health-science.svg",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/boost-pudding-vanilla.png?itok=ka0vUG7O",
+        "role": "secondary",
+        "alt": "BOOST Pudding Vanilla"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-02/boost-2.24-strawberry-image.png?itok=Flt7C3xM",
+        "role": "secondary",
+        "alt": "Boost strawberry flavor"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-02/boost-2.24-chocolate-image.png?itok=w-8ctZU6",
+        "role": "secondary",
+        "alt": "Boost 2.24 chocolate"
+      }
+    ]
+  },
+  "text": [
+    "Protein Hub",
+    "Recipes",
+    "Inspiration",
+    "Great taste guarantee",
+    "When diet’s not enough, get the protein, vitamins and minerals you need to keep doing what you love.",
+    "Find the BOOST that Fits You.",
+    "Who says nutrition needs to be complicated? Keep things simple with products that work as hard as you do.",
+    "BOOST Pudding Vanilla",
+    "BOOST 2.24 Cal/mL, Strawberry",
+    "BOOST 2.24 Cal/mL, Chocolate",
+    "BOOST 2.24, Vanilla",
+    "BOOST Just Protein 227 g",
+    "BOOST Pudding Chocolate",
+    "BOOST Protein and Shake - Chocolate",
+    "BOOST Kids Essentials Vanilla",
+    "More",
+    "All trademarks are owned by Société des Produits Nestlé S.A., Vevey, Switzerland and used under license. ©2018 Nestlé",
+    "You may also like",
+    "BOOST Kids Fruit Essentials",
+    "BOOST Kids Essentials Chocolate",
+    "BOOST Kids Fruit Essentials Tropical",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

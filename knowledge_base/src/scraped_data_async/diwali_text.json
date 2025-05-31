@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/diwali",
+    "category": "Promo",
+    "title": "Diwali",
+    "n_tokens": 935,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2022-10/02-Diwali_Banner.jpg",
+        "role": "package",
+        "alt": "Happy Diwali banner"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2022-10/03-Diwali_Banner.jpg",
+        "role": "package",
+        "alt": "Brighten your Celebrations with Quality Street"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-10/diwali.png?itok=mlL3k0Zj",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-10/fireworks.png?itok=RzG3jxIh",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/thumbnail/public/2021-10/lamp.png?itok=gXnLZ6ky",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Diwali",
+    "Wishing you a bright and happy Diwali!",
+    "Whether you are exchanging gifts, lighting diyas, or decorating your home, we have some simple recipes you can serve your friends and family to celebrate the festival of lights.",
+    "Follow us on social media!",
+    "This Diwali, unleash your inner baker and discover delicious recipes using Quality Street Sweets!",
+    "QUALITY STREET Nankhatai",
+    "Our decadent Nankhatai are imbued with the…irresistible aroma of cardamom, caramel, and chocolate! QUALITY STREET Sweets make these Nankhatai unique as no two cookies taste the same! Serve these golden brown cookies with a cup of chai to your guests while they are still soft, gooey and warm from the oven! These Nankhatai cookies are the perfect celebration treat for Diwali and the holiday season.",
+    "15 mins.",
+    "20 mins.",
+    "Chocolate Hazelnut and Pistachio Burfi",
+    "Burfi (also known as barfi) is a popular dessert that is…commonly served to celebrate a special occasion, such as a wedding or gathering, and throughout the Diwali festival! This delicious, fudge-like dessert can be made with a variety of toppings and flavourings (such as nuts, spices and floral essences like rose water or saffron). This rendition is made with creamy coconut milk and studded with decadent chocolate for the ultimate holiday indulgence",
+    "Quality Street Khajoor Cake",
+    "Perfect for Iftar, this cake is rich with dates that restore…energy after a day of fasting. The chocolates add a wonderful depth and flavour to this cake!",
+    "30 mins.",
+    "Quality Street Chocolate Coconut Kulfi",
+    "These milky, sweet, and delicious frozen treats are…sure please everybody’s taste buds! Add cardamom, chocolate, coconut or coffee for a little extra flavour.",
+    "10 mins.",
+    "Get creative in the kitchen this Diwali with a wide array of mouthwatering recipes",
+    "S. PELLEGRINO Chatpati Shikanji",
+    "Add a special sparkle to your Diwali celebrations with…S.PELLEGRINO Naturali Limonata Chatpati Shikanji! Treat yourself and your guests to this zesty mix of ginger, mint, spice and lemon that will linger on your palate sip after sip. S. Pellegrino Limonata enhances this drink with its refreshing and bright flavours made with carefully selected Sicilian lemons.",
+    "MAGGI Subz Mast Masala",
+    "A deliciously different way to prepare sabzi, our Subz…Mast Masala makes dinner prep easy, thanks to MAGGI Tamarina Sauce and MAGGI Masala Chilli Sauce. You don’t have to add any masalas, just add your favourite vegetables to this spicy roasted medley and watch your family savour this vegetarian dish that is crispy, tasty, and mast all at once!",
+    "KitKat Bar Matka Kulfi",
+    "A delicious way to celebrate Eid, our Matka Kulfi is…going to bring back nostalgic memories of strolling in the bazaar and sampling kulfi from a matka!",
+    "MAGGI Biryani Noodles Recipe",
+    "Biryani or your favourite MAGGI Masala Noodles?…Now you don't have to choose. This epic MAGGI Noodles Biryani Recipe combines your favourite 2-Minute Masala Noodles with a Biryani twist. Packed with lots of vegetables and aromatic spices, this easy and delicious meal will be a hit with the whole family. It can be served at home for everyday cooking or for special occasions like holidays and celebrations.",
+    "40 mins.",
+    "Besan Laddoo (Besan ke laddu)",
+    "Besan laddoo (Besan ke laddu)  is a popular sweet…dish made of besan (chickpea flour or gram flour), sugar, and ghee. The secret of these irresistible sweet balls full of flavor lies in the careful preparation of the right ingredients. Besan laddoos are often served during religious festivals. Try them for Diwali!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "16 mins.",
+    "NESQUIK Strawberry Gulabo",
+    "This Diwali, mix it up with the creamy texture and…luscious flavour of Nesquik Strawberry Gulabo! Let this recipe be the highlight of your festivities, bringing a burst of flavour, vibrant colour and a touch of sweetness to your celebrations. Enjoy every sip of these aromatic flavours including strawberry, cardamom and rosewater and share the joy of with your loved ones.",
+    "Boost Mango Lassi",
+    "BOOST Vanilla Simply+ Mango Lassi is a refreshing…and nourishing delight made with just five ingredients. Not only is this quick and easy to make but it is also packed with goodness that will leave you feeling satisfied. The combination of the smooth vanilla flavour and the natural sweetness of mangoes creates a harmonious blend. For added richness, sprinkle crushed pistachios, dried rose petals or saffron strands on top.",
+    "Gulab Jamun",
+    "Ce dessert traditionnel est le centre d'attraction de…chaque festival et occasion en Inde (en particulier Diwali). Ce délicieux dessert n'est pas seulement apprécié en Inde, mais aussi dans des pays comme le Népal, le Myanmar, le Pakistan, le Bangladesh et l'île Maurice. Ce plat sucré est délicieux et ajoute de l’esprit  à n'importe quel plateau de desserts - essayez-le pour votre prochaine célébration.",
+    "Fun Facts about Diwali",
+    "Keep Exploring",
+    "A World of Flavours",
+    "A World of Flavours: The Secret Ingredient for Your Next Meal",
+    "Quality Street Nankhatai Cookies",
+    "Delight your loved ones with Quality Street® Nankhatai for Diwali",
+    "Celebrate with Quality Street",
+    "This beautifully decorated box of chocolates is the perfect gift for your loved ones this Diwali. Quality Street offers a great variety of wrapped chocolates and caramels in a colourful tin that can be used long after the sweets are gone!",
+    "You may also like",
+    "QUALITY STREET Holiday Gift Tin",
+    "QUALITY STREET Holiday Gift Box",
+    "QUALITY STREET Share Bag",
+    "QUALITY STREET Small Tin",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

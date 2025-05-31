@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/nesfruta",
+    "category": "Product",
+    "title": "Nesfruta Water Enhancer",
+    "n_tokens": 46,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3556314_nesfruta_opm_52ml_3d.png?itok=DeNT8mp5",
+        "role": "package",
+        "alt": "NESFRUTA Orange Peach Mango, Naturally Flavoured Liquid Water Enhancer, 52ml makes 26 servings."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3748871_nesfruta_cocopine_52ml_3d.png?itok=xL3sOCmP",
+        "role": "package",
+        "alt": "NESFRUTA Coconut Pineapple, Naturally Falvoured Liquid Water Enhancer, 52ml makes 26 servings."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3571241_nesfruta_raspberry_52ml_3d.png?itok=GOl2Lz3h",
+        "role": "package",
+        "alt": "NESFRUTA Raspberry, Naturally Falvoured Liquid Water Enhancer, 52ml makes 26 servings."
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-05-drop-01.svg",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle-58-hands-food-01.svg",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Recipes",
+    "Real fruit flavour at your fingertips",
+    "Add a splash of real fruit juice to your water with 0-calorie NESFRUTA. It’s perfect on-the-go or at home. Refreshing, isn’t it?",
+    "A flavourful shot of real fruit",
+    "NESFRUTA Orange Peach Mango",
+    "NESFRUTA Coconut Pineapple",
+    "NESFRUTA Raspberry",
+    "Keep Exploring"
+  ]
+}

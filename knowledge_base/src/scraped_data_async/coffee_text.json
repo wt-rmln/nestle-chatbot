@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/coffee",
+    "category": "Product",
+    "title": "404",
+    "n_tokens": 100,
+    "n_tables": 0,
+    "n_images": 3,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/kit-kat-404.jpg",
+        "role": "secondary",
+        "alt": "KIT KAT"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nescafe-404.png",
+        "role": "secondary",
+        "alt": "Nescafe"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/redmugger-404.png",
+        "role": "secondary",
+        "alt": "Red Mugger"
+      }
+    ]
+  },
+  "text": [
+    "404: The page you were looking for isn't here",
+    "Sounds like a perfect excuse to take a lil' break.Take an even longer break withthis whole pageof KIT KATS.",
+    "404: The red mugger strikes again!",
+    "He stole the page you were looking for from right under your nose!Luckily, he left behind this mug ofNESCAFÉfor you to sip on.Or at least look at.",
+    "You may also like",
+    "PARLOUR Vanilla Sandwich",
+    "Nescafé Iced Dalgona Coffee",
+    "Recipe",
+    "Nescafé Iced Coconut Latte",
+    "BOOST Kids Essentials Vanilla",
+    "Recent Videos",
+    "S.PELLEGRINO Limonta Chatpati Shikanji",
+    "BOOST Simply+ Vanilla Mango Lassi",
+    "QUALITY STREET Nankhatai",
+    "QUALITY STREET Nankhatai Cookie Recipe"
+  ]
+}

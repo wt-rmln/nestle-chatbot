@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Häagen-Dazs - Collections - Extraaz",
+    "n_tokens": 91,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/extraaz-collection-hero-en/Extra%C3%A4z-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/extraaz-collection-hero-en/Extra%C3%A4z-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/extraaz-collection-hero-en/Extra%C3%A4z-mobile-left.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.haagen-dazs.ca/sites/default/files/nestle_packages/extraaz-collection-hero-en/Extra%C3%A4z-mobile-right.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/hdz-bottom-tiles-may-2023/hdz-explore-plant-based-bg.png",
+        "role": "package",
+        "alt": ""
+      }
+    ],
+    "url": "https://www.haagen-dazs.ca/en/hd-en/extraaz",
+    "category": "Product"
+  },
+  "text": [
+    "Thät’s Dazs",
+    "Layers",
+    "Exträaz",
+    "Recipes",
+    "Tubs & Bars",
+    "A little extra indulgence keeps every bite exciting. Discover exträaz, a collection of artfully-blended flavours featuring endless ripples paired with decadent chunks.",
+    "Discover your Indulgence",
+    "EXTRÄAZ Cookie Dough Dynamo Ice Cream Bars",
+    "EXTRÄAZ Cookies & Cream Ice Cream Bar",
+    "EXTRÄAZ Cookie Butter Crumble Ice Cream",
+    "EXTRÄAZ Key Lime Pie Ice Cream",
+    "EXTRÄAZ COOKIE DOUGH DYNAMO ICE CREAM SINGLE BARS",
+    "Häagen-Dazs exträaz Salted Caramel Crunch",
+    "Key Lime Pie Ice-cream Bars",
+    "EXTRÄAZ Chocolate Caramel Brownie Ice Cream",
+    "Extraaz",
+    "More",
+    "View All Products",
+    "Explore",
+    "Exträaz Layers"
+  ]
+}

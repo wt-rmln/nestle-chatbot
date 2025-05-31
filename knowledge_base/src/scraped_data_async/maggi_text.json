@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/maggi",
+    "category": "Product",
+    "title": "MAGGI Seasoning Mix",
+    "n_tokens": 841,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/maggi-seasoning-200_0001.png?itok=aitT4ADs",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/maggi-seasoning-800ml_sm.png?itok=mOyAfsiI",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_maggie-01-chicked.png?itok=MVRRVOnM",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_maggie-01-veggie.png?itok=bijbCsEO",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/hotsweet_bottle.png?itok=SYKzGNEB",
+        "role": "secondary",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "products",
+    "The secret behind your most delicious dishes.",
+    "MAGGI’s high quality ingredients and time-tested recipes make it quick and simple to create the perfect dish.",
+    "What’s your next deliciously authentic dish?",
+    "MAGGI Liquid Seasoning",
+    "MAGGI Hot and Sweet Sauce",
+    "MAGGI Tamarina Sauce",
+    "MAGGI Chilli Masala Sauce",
+    "MAGGI 2-Minute Noodles Masala",
+    "MAGGI Chicken Flavour Bouillon",
+    "MAGGI Vegetable Bouillon",
+    "Keep Exploring",
+    "We measure our environmental impact.See how we're doing",
+    "MAGGI Subz Mast Masala",
+    "A deliciously different way to prepare sabzi, our Subz…Mast Masala makes dinner prep easy, thanks to MAGGI Tamarina Sauce and MAGGI Masala Chilli Sauce. You don’t have to add any masalas, just add your favourite vegetables to this spicy roasted medley and watch your family savour this vegetarian dish that is crispy, tasty, and mast all at once!",
+    "15 mins.",
+    "30 mins.",
+    "MAGGI Biryani Noodles Recipe",
+    "Biryani or your favourite MAGGI Masala Noodles?…Now you don't have to choose. This epic MAGGI Noodles Biryani Recipe combines your favourite 2-Minute Masala Noodles with a Biryani twist. Packed with lots of vegetables and aromatic spices, this easy and delicious meal will be a hit with the whole family. It can be served at home for everyday cooking or for special occasions like holidays and celebrations.",
+    "40 mins.",
+    "MAGGI Juicy Jamaican Jerk Chicken",
+    "A classic throughout the Caribbean but famously…known as a Jamaican staple, this beloved style of barbecue finds its roots from the Spanish term charqui, which means “dried strips of meat” and is reflective of the jerky-style texture and smoky flavour of meats cooked over burning coals.",
+    "35 mins.",
+    "MAGGI Egg Bhurji Noodles",
+    "Looking for a quick and easy Maggi Egg Recipe? Look no…further than our Egg Bhurji recipe! This classic and simple dish takes scrambled eggs to a whole new level of deliciousness. With just 8 simple ingredients, you can whip up a delicious meal that combines the goodness of scrambled eggs with the convenience of Maggi 2 minute noodles. In just a few minutes, you'll have a hearty, satisfying and comforting dinner. Grab your favourite pack of MAGGI Masala Noodles and get cooking.",
+    "10 mins.",
+    "20 mins.",
+    "MAGGI Bouillon Three Sisters Soup",
+    "“Three Sisters” refers to the main ingredients used by…the Mohawk, Oneida, Onodaga, Cayuga, Seneca and  Tuscarora First Nations. This hearty, delicious meal is comprised primarily of – corn, beans, and squash – and the traditional methods used to cultivate these crops in a sustainable and productive way. This balanced soup is packed with healthy carbs, protein, and fibre, and is a culinary celebration of Indigenous cultures.",
+    "MAGGI Masala Chilli Chatpata Chicken",
+    "A delicious way to break your fast at Iftar, this easy recipe…comes together very quickly and tastes great with warm naan!",
+    "8 mins.",
+    "MAGGI Super Soup from Bosnia/Herzegovina",
+    "Surprise your family with your culinary skills by…making this light meal, Maggi Cream Super Soup with broccoli, cauliflower and spinach. In addition to the creamy taste, Maggi Cream Super Soup is enriched with vitamin C - just another reason to have this soup on your table every day!\n\nSome of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "MAGGI So Juicy Trinidadian-Style Doubles",
+    "This sandwich-style Caribbean classic is made…with fresh fry bread, called bara, and a curried chickpea stew, called chana, making this all-day staple a delicious vegetarian option. Dating back to the 1930s, this popular dish is believed to have been created by Indo-Trinidadians from the island’s Princes Town and it has been a cultural culinary tradition ever since! In fact, doubles have garnered worldwide attention, even having their own national day of celebration on May 30.",
+    "Coconut Meatball Curry made with MAGGI",
+    "Packed with hidden veggies, this curry-inspired one-pot…dish is perfect for big-batch cooking to keep you fuelled for the week! Coconut milk powder provides creaminess that perfectly balances the warm spice of curry paste and the hot and sweet chili sauce.",
+    "45 mins.",
+    "Tacos Al Pastor made with MAGGI",
+    "Tacos al pastor is a Mexican street-food staple that was…created by Lebanese immigrants in the 1930s. Cooked on a Middle Eastern shawarma–style spit called a trompo, this recipe — spiked with chiles, adobo sauce and orange juice, and topped with pineapple and cilantro — has been adapted to be easily created in your own kitchen – no trompo required.",
+    "140 mins.",
+    "Caribbean Rice and Peas made with MAGGI",
+    "Originally descending from West African tribes, the rice…and peas combination was adapted in the Caribbean and has become a delicious staple throughout the Caribbean, with recipes handed down from generation to generation. This versatile dish can be enjoyed throughout the day as a side for breakfast, lunch or dinner.",
+    "83 mins.",
+    "MAGGI Pistachio and Dates Truffles",
+    "Enjoy these tasty and nutritious Pistachio and…dates truffles as a snack or quick dessert. Perfect for on the go or for a light treat to devour at home!"
+  ]
+}

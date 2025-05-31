@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/drumstick/minis",
+    "category": "Product",
+    "title": "Drumstick - Collection - Minis",
+    "n_tokens": 40,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-minis-pkg_0/minis-hero-cone.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-minis-pkg_0/minis-hero-pack.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-minis-pkg_0/minis-extra-swirl.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/nestle_packages/drumstick-collection-minis-pkg_0/minis-extra-cone.png",
+        "role": "package",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/drumstick-minis-simp-dipped-en-new-header.png?itok=zIStDzro",
+        "role": "secondary",
+        "alt": "drumstick-minis-simp-dipped-en-new"
+      }
+    ]
+  },
+  "text": [
+    "We’ve taken a shrink ray to our classic DRUMSTICK. Perfect for kids andbig kids (adults) alike.",
+    "DRUMSTICK Minis Simply Dipped Vanilla Frozen Dessert Cones",
+    "DRUMSTICK Minis Vanilla Caramel Cones",
+    "DRUMSTICK Minis Vanilla with Chocolatey Swirl",
+    "DRUMSTICK Minis Simply Dipped Chocolate"
+  ]
+}

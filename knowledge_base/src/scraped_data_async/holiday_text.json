@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/holiday",
+    "category": "Product",
+    "title": "Holiday Candy, Chocolates & Treats",
+    "n_tokens": 58,
+    "n_tables": 0,
+    "n_images": 5,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/TURTLES-Classic-Holiday-Gift-Box.png?itok=KBi6PLVS",
+        "role": "package",
+        "alt": "TURTLES Classic Holiday Gift Box"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/Holiday-Advent-Calendar.png?itok=XLUihR_K",
+        "role": "package",
+        "alt": "Holiday Advent Calendar "
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/NESTLE-Holiday-Favourites-Value-Bag.png?itok=ga-uO21J",
+        "role": "package",
+        "alt": "NESTLE Holiday Favourites Value Bag"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/kit-kat-hockey-stick.png?itok=gABhMQ_-",
+        "role": "secondary",
+        "alt": "hockey stick bars"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/quality_street_180_g_tin.png?itok=H-mzhcdH",
+        "role": "secondary",
+        "alt": "QUALITY STREET Celebration Tin, 180 grams. Assortment of caramels, crèmes, and chocolate pralines."
+      }
+    ]
+  },
+  "text": [
+    "Hanukkah",
+    "French Canadian Christmas",
+    "Share the season",
+    "Celebrate the season with your",
+    "holiday favourites",
+    "Wrap up their favourite (and yours)",
+    "KITKAT NHL Chocolate Hockey Stick",
+    "TURTLES Classic Recipe Holiday Gift Box",
+    "QUALITY STREET Small Tin",
+    "QUALITY STREET Holiday Gift Tin",
+    "QUALITY STREET Holiday Gift Box",
+    "QUALITY STREET Tin",
+    "NESTLE Holiday Advent Calendar",
+    "NESTLE Holiday Favourites Value Bag",
+    "More"
+  ]
+}

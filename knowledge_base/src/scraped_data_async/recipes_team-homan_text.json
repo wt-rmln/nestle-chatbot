@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/team-homan",
+    "category": "Recipe",
+    "title": "Team Homan",
+    "n_tokens": 82,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/7e58a2b1bb2b7ed1ddf0e12c550fee42_rachel’s_boost_high_protein_berry_smoothie.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/a3999fa23bbb7b107149793529b758a3_joanne’s_boost_high_protein_chocolate_almond_smoothie.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/effd38eac309e9fb379fb2c8d77d8a80_coconut-energy-bites.jpg",
+        "role": "recipe",
+        "alt": ""
+      },
+      {
+        "url": "https://images.aws.nestle.recipes/original/efb487d0631d242129481ef3c73307a7_emmas_boost_just_protein_tropical_smoothie-013_copy_1.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Team Homan",
+    "Skip the morning muffin, and take on the day like a Rachel Homan with this protein-packed smoothie.",
+    "Rich, creamy taste, long-lasting energy. That’s what Team Homan calls a win, win.",
+    "Coconut, apricots and oats are combined to form satisfying bite-size clusters that will give you a BOOST any time of the day.",
+    "Add protein powder to chocolate chip cookies to make them feel like a healthier indulgence.",
+    "Chia seeds for protein and fiber, fresh pineapple and mango for game-winning taste."
+  ]
+}

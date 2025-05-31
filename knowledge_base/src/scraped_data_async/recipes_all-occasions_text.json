@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/all-occasions",
+    "category": "Recipe",
+    "title": "All Occasions",
+    "n_tokens": 17,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/3b82ccea14e3e9b12f3b24f2be959d8e_carrot_bunny_cake.jfif",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "All Occasions",
+    "Take a big break this Easter while enjoying a slice of KitKat bunny Carrot Cake!"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "url": "https://www.madewithnestle.ca/recipes/mocktail",
+    "category": "Recipe",
+    "title": "Trendy Mocktail Recipes",
+    "n_tokens": 57,
+    "n_tables": 0,
+    "n_images": 1,
+    "images": [
+      {
+        "url": "https://images.aws.nestle.recipes/original/2b57b6237e2215e5414c0598fb5646da_san_pell_horizontal_mwn_final.jpg",
+        "role": "recipe",
+        "alt": ""
+      }
+    ]
+  },
+  "text": [
+    "Mocktail",
+    "Add a special sparkle to your Diwali celebrations with S.PELLEGRINO Naturali Limonata Chatpati Shikanji! Treat yourself and your guests to this zesty mix of ginger, mint, spice and lemon that will linger on your palate sip after sip. S. Pellegrino Limonata enhances this drink with its refreshing and bright flavours made with carefully selected Sicilian lemons."
+  ]
+}

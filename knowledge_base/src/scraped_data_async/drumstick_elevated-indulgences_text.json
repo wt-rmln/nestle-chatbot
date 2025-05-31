@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Featured Cones DRUMSTICK Collection",
+    "n_tokens": 23,
+    "n_tables": 0,
+    "n_images": 4,
+    "images": [
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/MWN_Drumstick_Cones_EN.gif",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/2025-04/MWN_Drumstick_Splash.png",
+        "role": "secondary",
+        "alt": ""
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/drumstick-berry-bliss1-special-edition-en-header.png?itok=Elkrdq9p",
+        "role": "secondary",
+        "alt": "drumstick berry bliss special edition en header"
+      },
+      {
+        "url": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/drumstick-toffee-graham-banner-header.png?itok=xQgJgmhZ",
+        "role": "secondary",
+        "alt": "drumstick toffee graham banner"
+      }
+    ],
+    "url": "https://www.madewithnestle.ca/drumstick/featured-cones",
+    "category": "Product"
+  },
+  "text": [
+    "FeaturedCones",
+    "Experience your favourite DRUMSTICK reimagined with exciting new coatings and flavours.",
+    "DRUMSTICK Berry Bliss",
+    "DRUMSTICK Cookies n’ Crème",
+    "DRUMSTICK Toffee  Graham Crunch"
+  ]
+}
