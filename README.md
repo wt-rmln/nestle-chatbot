@@ -173,8 +173,9 @@ To make the chatbot adaptable to evolving knowledge, I’ve introduced a “feed
 
 ## Limitations
 
-One limitation is that, due to time constraints, I did not further refine the relationships between individual nodes in the Neo4j graph. Establishing more granular connections—such as linking related slices across pages, defining sequential or thematic edges, or modeling user interaction patterns—would enable the chatbot to traverse the knowledge graph more intelligently and provide even more precise, contextually rich answers. Future work could explore these finer-grained relationship schemas to enhance overall retrieval accuracy and conversational relevance.
+In the current Neo4j relationship schema, I have only added **brand** nodes under the **Product** category to link brands with their corresponding pages. However, this can be made much more granular. For example, in the **Promotion** category, we could introduce **holiday** or **seasonal** attributes (e.g., “Mother’s Day,” “Black Friday,” “Summer Sale”) to capture time-bound campaigns and special offers. By adding more fine-grained relationships—such as linking recipes to their key ingredients, associating products with nutritional or dietary tags, or connecting blog posts to specific topics—the Neo4j graph would provide richer context for the chatbot.  
 
+Neo4j is a powerful graph database, and when editors populate it with detailed nodes and edges, the chatbot’s answers become both more precise and more comprehensive. With a sufficiently detailed data model, the chatbot can navigate these relationships to surface nuanced information and deliver more complete responses.
 
 
 ---
