@@ -2,10 +2,15 @@
 
 This repository implements an end-to-end pipeline for scraping, processing, embedding, graph construction, and chatbot deployment. 
 
-Azure chatbot link: 
+Azure chatbot link: http://nestle-chatbot-app-jiamei-shu.azurewebsites.net/
 Flask application deployed to Azure through Azure CLI
 
-images:...
+<img width="1507" alt="Screenshot 2025-05-31 at 14 54 50" src="https://github.com/user-attachments/assets/3e503e79-9632-4da1-a9f3-889dad39365a" />
+<img width="1510" alt="Screenshot 2025-05-31 at 14 55 00" src="https://github.com/user-attachments/assets/1eaac6b2-59f9-4fe8-93b6-a88f6e41c249" />
+<img width="1508" alt="Screenshot 2025-05-31 at 14 55 12" src="https://github.com/user-attachments/assets/d8257e4b-ee94-4a1b-8606-8f5ad9d66659" />
+<img width="1512" alt="Screenshot 2025-05-31 at 16 23 31" src="https://github.com/user-attachments/assets/b70b5aea-3823-41be-8f84-05eaa50be19e" />
+<img width="1512" alt="Screenshot 2025-05-31 at 14 58 14" src="https://github.com/user-attachments/assets/1a6d0a39-2ec4-48b8-a540-e0558c60bde5" />
+
 
 The files and their relationships (left → right) follow the execution order from top to bottom.
 
@@ -159,6 +164,10 @@ By unifying vector similarity (Azure Search) with explicit document structure an
 ## User-Driven GraphRAG Customization
 
 To make the chatbot adaptable to evolving knowledge, I’ve introduced a “feedback” intent that lets end users flag missing or outdated content. A set of example utterances trains the intent detector, so when a user reports an issue (“this page isn’t up to date,” “I have a suggestion,” etc.), the bot captures that feedback and writes it to a staging database. Administrators can then review and approve additions or new relationships via the process_feedback.py pipeline before they’re merged into the Neo4j graph. This workflow empowers continual, controlled enrichment of the GraphRAG knowledge base.
+
+<img width="1512" alt="Screenshot 2025-05-31 at 16 17 55" src="https://github.com/user-attachments/assets/8c6f86ec-c3bf-4ca5-9359-546a41856535" />
+<img width="1512" alt="Screenshot 2025-05-31 at 16 18 16" src="https://github.com/user-attachments/assets/bfad5ab7-9639-40db-ba13-1b4fa0cb2a37" />
+
 
 
 ## Limitations
