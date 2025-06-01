@@ -13,9 +13,9 @@ Flask application deployed to Azure through Azure CLI
 <img width="1512" alt="Screenshot 2025-05-31 at 14 58 14" src="https://github.com/user-attachments/assets/1a6d0a39-2ec4-48b8-a540-e0558c60bde5" />
 
 
+## Structure - Content Ingestion
 The files and their relationships (left → right) follow the execution order from top to bottom.
 
-## Structure - Content Ingestion
 1. **knowledge_base/src/save\_auth\_cookie.py → knowledge_base/src/auth.json**
 
    * Saves authentication cookies for pages requiring consent or login.
