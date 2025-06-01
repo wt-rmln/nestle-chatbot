@@ -3,6 +3,7 @@
 This repository implements an end-to-end pipeline for scraping, processing, embedding, graph construction, and chatbot deployment. 
 
 Azure chatbot link: http://nestle-chatbot-app-jiamei-shu.azurewebsites.net/
+
 Flask application deployed to Azure through Azure CLI
 
 <img width="1507" alt="Screenshot 2025-05-31 at 14 54 50" src="https://github.com/user-attachments/assets/3e503e79-9632-4da1-a9f3-889dad39365a" />
